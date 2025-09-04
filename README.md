@@ -5,7 +5,7 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2025-09-04 20:50:00 +0800 -->
+<!-- 最后更新时间 2025-09-04 21:32:17 +0800 -->
 1. [被曝停工停产，又一国产车企凉凉](https://36kr.com/p/3451094452639362)
 1. [8点1氪丨携程宣布所有产研员工居家办公无需审批；361度与张水华已解约；苹果被曝首款折叠iPhone出货量或达千万台](https://36kr.com/p/3451637427525250)
 1. [刚刚，马斯克「金色擎天柱」首曝，这双真人手刷屏，50万年薪岗危了](https://36kr.com/p/3452054073792132)
@@ -22,39 +22,40 @@
 1. [狂卷加盟、冲击一线城市，幸运咖硬刚瑞幸库迪？](https://36kr.com/p/3451105874400642)
 1. [上半年最赚钱的三家车企，只挣到了车轮上的“辛苦钱”？](https://36kr.com/p/3452033530190216)
 1. [这个不到10人的冷门行业，被他一手盘活了](https://36kr.com/p/3451649840485768)
-1. [辐射全国，年销上百亿的水产市场，要搬了？](https://36kr.com/p/3451786254817416)
 1. [蓝领喜爱的鱼泡，白领生意也行？](https://36kr.com/p/3451669953058439)
+1. [辐射全国，年销上百亿的水产市场，要搬了？](https://36kr.com/p/3451786254817416)
+1. [安徽造车大佬，背水一战](https://36kr.com/p/3452151590884745)
 1. [DeepSeek微信抖音AI强制打标，能防骗吗？](https://36kr.com/p/3451032302147200)
 1. [张一鸣又出爆款，靠抖音神曲杀进前三，1亿年轻人被拿捏](https://36kr.com/p/3451856352056705)
 1. [2025职场牛马成语新编](https://36kr.com/p/3451882958919043)
-1. [Salesforce：AI到底是“救星”还是“丧钟”？](https://36kr.com/p/3451828316247433)
-1. [安徽造车大佬，背水一战](https://36kr.com/p/3452151590884745)
-1. [终局之战：外卖三国杀后，电商终究阿里“坐庄”？](https://36kr.com/p/3451007689332358)
-1. [央视曝光，防蓝光贴膜效果不如保鲜膜，妥妥智商税产品？](https://36kr.com/p/3452043526199433)
 1. [120天，OpenAI能“止杀”吗？](https://36kr.com/p/3452206367217026)
-1. [删掉15万行代码、全球贡献度第16名的Rust大神，竟全网公开求职？工作意向惹争议：“坚决拒绝生成式AI”](https://36kr.com/p/3451174615831941)
+1. [Salesforce：AI到底是“救星”还是“丧钟”？](https://36kr.com/p/3451828316247433)
+1. [央视曝光，防蓝光贴膜效果不如保鲜膜，妥妥智商税产品？](https://36kr.com/p/3452043526199433)
+1. [终局之战：外卖三国杀后，电商终究阿里“坐庄”？](https://36kr.com/p/3451007689332358)
+1. [中国最赚钱的三大车企加一起，利润勉强追上宁德时代](https://36kr.com/p/3452155823199874)
 1. [心理负荷陷阱](https://36kr.com/p/3410680728325505)
+1. [删掉15万行代码、全球贡献度第16名的Rust大神，竟全网公开求职？工作意向惹争议：“坚决拒绝生成式AI”](https://36kr.com/p/3451174615831941)
+1. [特斯拉Dojo折戟，Waymo全球扩张：自动驾驶走向分水岭](https://36kr.com/p/3452076416637315)
+1. [食品主理人，为何烂大街？](https://36kr.com/p/3451855774045577)
 1. [苹果自研 AI 搜索曝光：核心团队大流失后，要把「灵魂」交给 Google](https://36kr.com/p/3451847994643849)
 1. [00后打造最强苹果开发Agent，刚刚，OpenAI打包收编](https://36kr.com/p/3452053049595265)
-1. [食品主理人，为何烂大街？](https://36kr.com/p/3451855774045577)
-1. [中国最赚钱的三大车企加一起，利润勉强追上宁德时代](https://36kr.com/p/3452155823199874)
 1. [携程最新通知：产研员工居家办公无需领导审批](https://36kr.com/p/3451815668766336)
-1. [特斯拉Dojo折戟，Waymo全球扩张：自动驾驶走向分水岭](https://36kr.com/p/3452076416637315)
 1. [优篮子完成对美国品牌JOBY收购，拓展摄影配件特定市场版图｜36氪首发](https://36kr.com/p/3451149604542084)
 1. [扶了王健林一把的男人，千万股权被冻结](https://36kr.com/p/3451022814255239)
 1. [DQ“失宠”，野人崛起](https://36kr.com/p/3451830983530629)
+1. [两周规则：实现远大目标绝佳方式](https://36kr.com/p/3409859119517059)
 1. [银发市场是第一站，家电巨头押注机器人做“智能家居入口”](https://36kr.com/p/3451685772105351)
 1. [“80%代码靠AI生成，我算骗子吗？”自学编程3个月，开发小白深陷“AI依赖”焦虑：脱离AI都撑不过30分钟](https://36kr.com/p/3451618392757894)
-1. [两周规则：实现远大目标绝佳方式](https://36kr.com/p/3409859119517059)
 1. [苹果四位 AI 大将出走，其中三位是华人](https://36kr.com/p/3451071211198597)
 1. [「睿健医药」B轮次融资累计超3亿，帕金森干细胞疗法拿下美国FDA快速通道认定｜36氪首发](https://36kr.com/p/3450842281416071)
 1. [人形机器人再现亿元级订单](https://36kr.com/p/3451853280843141)
 1. [那些自愿把脸卖给AI的人，已经后悔了](https://36kr.com/p/3451619392083592)
-1. [4亿美元的光刻机，开抢](https://36kr.com/p/3451733574833540)
 1. [AI来了，组织结构开始变了？](https://36kr.com/p/3451788162012553)
-1. [全球AI百强榜揭晓：科技巨头对峙，中国“军团”异军突起](https://36kr.com/p/3451072521574533)
+1. [4亿美元的光刻机，开抢](https://36kr.com/p/3451733574833540)
 1. [突发，联合利华高管团队面临大面积审查，继7500人裁员计划后宣布25%高管“改组”](https://36kr.com/p/3451845014525577)
+1. [全球AI百强榜揭晓：科技巨头对峙，中国“军团”异军突起](https://36kr.com/p/3451072521574533)
 1. [36氪首发｜掘金“微醺”社交经济，精酿品牌「TAGSIU」获近千万 Pre-A 轮融资](https://36kr.com/p/3450769095759489)
+1. [李飞飞的答案：大模型之后，Agent 向何处去？](https://36kr.com/p/3452109041718663)
 1. [拿下行业头部企业千万级订单，高端压电材料研发商「江瓷电子」完成数千万元pre-A轮融资 | 36氪首发](https://36kr.com/p/3451817497597572)
 1. [从加油站到充电站，谁在收割新时代？](https://36kr.com/p/3450863720830344)
 1. [下周的新 iPhone 要出官方挂绳了？iPod Touch：爷青回](https://36kr.com/p/3450879335650947)
@@ -132,7 +133,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2025-09-04 20:50:01 +0800 -->
+<!-- 最后更新时间 2025-09-04 21:32:18 +0800 -->
 1. [谁来谁没来？阅兵观礼台2015 VS 2025，看世界格局的重塑](https://b23.tv/BV1nwauzREuU)
 1. [阅兵完整视频！让我们一起铭记历史，从伟大胜利走向伟大复兴！](https://b23.tv/BV1YiaMzkEGz)
 1. [一期视频带你看懂所有阅兵装备！](https://b23.tv/BV1EfaBzuETw)
@@ -280,7 +281,7 @@
 ## 抖音
 
 <!-- BEGIN DOUYIN -->
-<!-- 最后更新时间 2025-09-04 20:50:03 +0800 -->
+<!-- 最后更新时间 2025-09-04 21:32:20 +0800 -->
 1. [中朝元首举行会谈](https://www.douyin.com/hot/2225763)
 1. [九三受阅部队开始回撤](https://www.douyin.com/hot/2225783)
 1. [回顾阅兵场上的敬礼瞬间](https://www.douyin.com/hot/2225710)
@@ -292,48 +293,51 @@
 1. [这一刻我和祖国同频](https://www.douyin.com/hot/2224535)
 1. [刘敏涛谈到对角色的感悟时落泪](https://www.douyin.com/hot/2225744)
 1. [是毛毯也是花束](https://www.douyin.com/hot/2225063)
-1. [这就是我们的声音](https://www.douyin.com/hot/2224222)
 1. [普京结束对华正式访问](https://www.douyin.com/hot/2225082)
-1. [电影731首日排片占比超99.7%](https://www.douyin.com/hot/2225670)
+1. [这就是我们的声音](https://www.douyin.com/hot/2224222)
+1. [足迹开播](https://www.douyin.com/hot/2225233)
 1. [九三阅兵观后感](https://www.douyin.com/hot/2224405)
 1. [华为新款三折叠正式发布](https://www.douyin.com/hot/2225506)
+1. [电影731首日排片占比超99.7%](https://www.douyin.com/hot/2225670)
 1. [全抖音都在晒白切鸡](https://www.douyin.com/hot/2225529)
 1. [华为新品发布会](https://www.douyin.com/hot/2225470)
-1. [九三阅兵完整视频](https://www.douyin.com/hot/2224300)
 1. [纪念抗战胜利80周年文艺晚会](https://www.douyin.com/hot/2224840)
+1. [白切鸡吃老鸡还是吃嫩鸡](https://www.douyin.com/hot/2225436)
+1. [九三阅兵完整视频](https://www.douyin.com/hot/2224300)
 1. [抗战胜利80周年阅兵](https://www.douyin.com/hot/2223717)
-1. [雪饼猴人物短片](https://www.douyin.com/hot/2225214)
-1. [男朋友看有朵云像你爆哭](https://www.douyin.com/hot/2225242)
+1. [普京：中国仍是世界经济发展引擎](https://www.douyin.com/hot/2225079)
 1. [浙工大的“双一流”校长](https://www.douyin.com/hot/2225173)
 1. [目之所及口碑](https://www.douyin.com/hot/2225517)
 1. [一条视频致敬最可爱的人](https://www.douyin.com/hot/2224288)
-1. [地图看十四年抗战历程](https://www.douyin.com/hot/2224791)
-1. [揭秘阅兵装备](https://www.douyin.com/hot/2224284)
+1. [雪饼猴人物短片](https://www.douyin.com/hot/2225214)
 1. [张艺兴说自己不怕尖嘴动物了](https://www.douyin.com/hot/2225871)
-1. [山水间的杨紫好灵动](https://www.douyin.com/hot/2225437)
-1. [白切鸡吃老鸡还是吃嫩鸡](https://www.douyin.com/hot/2225436)
-1. [你怎么知道我开学遇到了詹姆斯](https://www.douyin.com/hot/2225572)
-1. [小小年纪就是美妆达人了](https://www.douyin.com/hot/2225258)
-1. [王赫野武艺同台演出](https://www.douyin.com/hot/2225121)
-1. [2分钟看懂中国导弹类型](https://www.douyin.com/hot/2225494)
-1. [用莫问归期记录我们俩](https://www.douyin.com/hot/2224928)
-1. [狗狗和会跳舞的仙人掌杠上了](https://www.douyin.com/hot/2225609)
-1. [用微微辣打开华晨宇演唱会](https://www.douyin.com/hot/2225711)
-1. [默剧表演抓不住的瓶子](https://www.douyin.com/hot/2225549)
 1. [琥珀系才是松弛感天花板](https://www.douyin.com/hot/2225499)
-1. [和平鸽已陆续到家](https://www.douyin.com/hot/2224918)
-1. [郁可唯九三文艺晚会vlog](https://www.douyin.com/hot/2225882)
+1. [用莫问归期记录我们俩](https://www.douyin.com/hot/2224928)
+1. [王赫野武艺同台演出](https://www.douyin.com/hot/2225121)
+1. [山水间的杨紫好灵动](https://www.douyin.com/hot/2225437)
 1. [敖黎强制爱这一块](https://www.douyin.com/hot/2225405)
+1. [小小年纪就是美妆达人了](https://www.douyin.com/hot/2225258)
+1. [你怎么知道我开学遇到了詹姆斯](https://www.douyin.com/hot/2225572)
+1. [2分钟看懂中国导弹类型](https://www.douyin.com/hot/2225494)
+1. [和平鸽已陆续到家](https://www.douyin.com/hot/2224918)
+1. [默剧表演抓不住的瓶子](https://www.douyin.com/hot/2225549)
+1. [狗狗和会跳舞的仙人掌杠上了](https://www.douyin.com/hot/2225609)
+1. [当我下班后去菜市场能捡到什么](https://www.douyin.com/hot/2224633)
+1. [郁可唯九三文艺晚会vlog](https://www.douyin.com/hot/2225882)
+1. [陈伟霆陈瑶九门同框路透](https://www.douyin.com/hot/2225722)
+1. [十二封信大结局细节隐喻](https://www.douyin.com/hot/2225667)
+1. [新华社出图了](https://www.douyin.com/hot/2224537)
+1. [地图看十四年抗战历程](https://www.douyin.com/hot/2224791)
+1. [MatePadMini首发测评](https://www.douyin.com/hot/2225728)
+1. [鹿晗北京演唱会嘉宾是邓超陈赫](https://www.douyin.com/hot/2225688)
+1. [男朋友看有朵云像你爆哭](https://www.douyin.com/hot/2225242)
+1. [揭秘阅兵装备](https://www.douyin.com/hot/2224284)
+1. [用微微辣打开华晨宇演唱会](https://www.douyin.com/hot/2225711)
 1. [詹姆斯中国行](https://www.douyin.com/hot/2223918)
 1. [你能接受灶台不干净吗](https://www.douyin.com/hot/2224884)
-1. [当我下班后去菜市场能捡到什么](https://www.douyin.com/hot/2224633)
-1. [新华社出图了](https://www.douyin.com/hot/2224537)
-1. [陈伟霆陈瑶九门同框路透](https://www.douyin.com/hot/2225722)
 1. [当外国人观看九三阅兵](https://www.douyin.com/hot/2224849)
 1. [男朋友和我简直是复制粘贴](https://www.douyin.com/hot/2225399)
 1. [卢旺达颠覆了我对非洲的印象](https://www.douyin.com/hot/2225226)
-1. [普京：中国仍是世界经济发展引擎](https://www.douyin.com/hot/2225079)
-1. [足迹开播](https://www.douyin.com/hot/2225233)
 1. [看植物说果实名字](https://www.douyin.com/hot/2225289)
 1. [纯享版“标兵就位”](https://www.douyin.com/hot/2224429)
 1. [舒淇威尼斯路透](https://www.douyin.com/hot/2225138)
@@ -407,7 +411,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2025-09-04 20:50:06 +0800 -->
+<!-- 最后更新时间 2025-09-04 21:32:22 +0800 -->
 1. [凌晨零点，一个TODO，差点把我们整个部门抬走](https://juejin.cn/post/7545017768519041039)
 1. [我为什么放弃了 React（或许你也该试试）🔥](https://juejin.cn/post/7544237599172542473)
 1. [当Python遇见高德：基于PyQt与JS API构建桌面三维地形图应用实战](https://juejin.cn/post/7545921037285277696)
@@ -432,8 +436,8 @@
 1. [谈谈SerializedLambda](https://juejin.cn/post/7545303571236159540)
 1. [开源了一款基于 Vue 3 的高性能多维表格编辑器](https://juejin.cn/post/7545697626613743666)
 1. [VoidZero 公司 8 月动态回顾 🚀🚀🚀](https://juejin.cn/post/7545037242243727414)
-1. [🚀前后端数据字段不一致？别再手动处理API数据了！这个BFF数据转换层让你的开发效率提升300%](https://juejin.cn/post/7545039070314954767)
 1. [有人敲门，开水开了，电话响了，孩子哭了，你先顾谁？](https://juejin.cn/post/7545338825502097444)
+1. [🚀前后端数据字段不一致？别再手动处理API数据了！这个BFF数据转换层让你的开发效率提升300%](https://juejin.cn/post/7545039070314954767)
 1. [方向键滚不动？带你搞懂 tabindex 的工作原理](https://juejin.cn/post/7544077353372532787)
 1. [MySQL 基础架构（一）：SQL语句的执行之旅](https://juejin.cn/post/7545378955072061490)
 1. [手把手教你实现飞机上的开窗关窗效果](https://juejin.cn/post/7545489282000060462)
@@ -441,8 +445,8 @@
 1. [实现一个 AI 编辑器 - 行内代码生成篇](https://juejin.cn/post/7545087770776616986)
 1. [使用three.js搭建3d隧道监测-3](https://juejin.cn/post/7545015409616486463)
 1. [Spring常用注解总结(持续更新)](https://juejin.cn/post/7544408352618627072)
-1. [React 19 发布：useTransition 平滑异步过渡！](https://juejin.cn/post/7544755230888427572)
 1. [R8疑难杂症分析实战：外联优化设计缺陷引起的崩溃｜得物技术](https://juejin.cn/post/7545087741064577075)
+1. [React 19 发布：useTransition 平滑异步过渡！](https://juejin.cn/post/7544755230888427572)
 1. [Nano Banana一战封神，实际效果测评](https://juejin.cn/post/7544920804624646198)
 1. [Compose 图片加载新姿势 — Coil 精通](https://juejin.cn/post/7544949169640783906)
 1. [iOS从打包到上架详细流程](https://juejin.cn/post/7544237599173197833)
@@ -489,7 +493,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2025-09-04 20:49:57 +0800 -->
+<!-- 最后更新时间 2025-09-04 21:32:15 +0800 -->
 1. [多花的钱花在哪里：看硬参数读懂鼠标性能好坏](https://sspai.com/post/102195)
 1. [用 Mac 打造智能化餐厅，这是海底捞给出的答案](https://sspai.com/post/102160)
 1. [新玩意 219｜少数派的编辑们最近买了啥？](https://sspai.com/post/102159)
@@ -538,7 +542,7 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2025-09-04 20:50:07 +0800 -->
+<!-- 最后更新时间 2025-09-04 21:32:23 +0800 -->
 1. [投资第1课](https://weread.qq.com/web/bookDetail/89b322f0813aba568g0116d0)
 1. [欲望男女：解压读物故事集（2025 年 9 月刊）](https://weread.qq.com/web/bookDetail/f38329a0813aba56eg013524)
 1. [病房生死录（套装共3册）](https://weread.qq.com/web/bookDetail/4c632b60813ab8df3g0158f7)
