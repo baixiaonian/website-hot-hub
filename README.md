@@ -5,7 +5,7 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2025-12-14 02:35:35 +0800 -->
+<!-- 最后更新时间 2025-12-14 03:21:05 +0800 -->
 1. [9点1氪丨小米公司辟谣不让卖小米；ChatGPT成人模式或于明年一季度上线；罗马仕公司被罚没超124万元](https://36kr.com/p/3593276900933897)
 1. [百年零售巨头，宣布破产](https://36kr.com/p/3593418393387009)
 1. [巨亏120亿，阿尔特曼的“大而不能倒”还能演多久？](https://36kr.com/p/3556961125891203)
@@ -24,7 +24,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2025-12-14 02:35:35 +0800 -->
+<!-- 最后更新时间 2025-12-14 03:21:06 +0800 -->
 1. [我奶奶说她煎个荷包蛋都比我玩cosplay流量高](https://b23.tv/BV1BCmKBPErf)
 1. [1500万粉网红儿子结婚，婚车款式全球限量，新娘容貌首次曝光](https://b23.tv/BV1ygmtBTEAC)
 1. [为了这个节目我们拼了！！！《下一个是谁6》01](https://b23.tv/BV12zmGBcEtT)
@@ -193,7 +193,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2025-12-14 02:35:39 +0800 -->
+<!-- 最后更新时间 2025-12-14 03:21:09 +0800 -->
 1. [从美团全栈化看 AI 冲击：前端转全栈，是自救还是必然 🤔🤔🤔](https://juejin.cn/post/7581999251368460340)
 1. [豆包手机为什么会被其他厂商抵制？它的工作原理是什么？](https://juejin.cn/post/7582469532326920228)
 1. [为什么 AI 明明写后端更爽，但却都网传 AI 取代前端，而不是 AI 取代后端？就离谱...](https://juejin.cn/post/7582528397865254939)
@@ -235,12 +235,12 @@
 1. [Vue 3 统一面包屑导航系统：从配置地狱到单一数据源](https://juejin.cn/post/7582358932027998223)
 1. [【重磅福利】学生认证可免费领取 Gemini 3 Pro 一年](https://juejin.cn/post/7582413770091544614)
 1. [我只是给Typescript提个 typo PR，为什么还要签协议？](https://juejin.cn/post/7582815307438899251)
+1. [我的服务器带宽被“偷”了，于是我写了个脚本来抓现行](https://juejin.cn/post/7582003642192019498)
 1. [三种方式打 Java 可执行 JAR 包，你用对了吗？](https://juejin.cn/post/7582786292087455795)
 1. [按钮太多了？基于ResizeObserver优雅显示](https://juejin.cn/post/7582419803782742051)
 1. [我封装了一个“瑞士军刀”级插件，并顺手搞定了自动化部署](https://juejin.cn/post/7582413770091446310)
 1. [同事写的count(*)性能很差，如何优化？](https://juejin.cn/post/7582406735387394054)
 1. [如何从Axios平滑迁移到Alova](https://juejin.cn/post/7582096212663599104)
-1. [我的服务器带宽被“偷”了，于是我写了个脚本来抓现行](https://juejin.cn/post/7582003642192019498)
 1. [✨TRAE SOLO + Holopix AI | 复刻 GBA 游戏-"🐛口袋妖怪"](https://juejin.cn/post/7582755817671442442)
 1. [Vite 到底能干嘛？为什么 Vue3 官方推荐它做工程化工具？](https://juejin.cn/post/7582480048957915163)
 1. [SDWebImage深度解析：高效图片加载背后的架构设计与卓越实践](https://juejin.cn/post/7582067084840304694)
@@ -251,7 +251,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2025-12-14 02:35:33 +0800 -->
+<!-- 最后更新时间 2025-12-14 03:21:04 +0800 -->
 1. [在 2025 年复活一台黑莓 Q25](https://sspai.com/post/104334)
 1. [新玩意 229｜少数派的编辑们最近买了啥？](https://sspai.com/post/104311)
 1. [「黑五」值得买：不容错过的数码硬件优惠](https://sspai.com/post/104157)
@@ -299,7 +299,7 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2025-12-14 02:35:41 +0800 -->
+<!-- 最后更新时间 2025-12-14 03:21:11 +0800 -->
 1. [周易有答案：人真的能算出自己的命运吗](https://weread.qq.com/web/bookDetail/04a328d0813abae60g019c38)
 1. [高嫁：聪慧贵女×腹黑王爷](https://weread.qq.com/web/bookDetail/4ab32ad0813abad4bg0191ee)
 1. [创意行为：存在即答案](https://weread.qq.com/web/bookDetail/5a332100813ab9d83g018139)
@@ -333,57 +333,71 @@
 ## 快手
 
 <!-- BEGIN KUAISHOU -->
-<!-- 最后更新时间 2025-12-14 02:35:44 +0800 -->
+<!-- 最后更新时间 2025-12-14 03:21:14 +0800 -->
 1. [明年经济工作这么干](https://www.kuaishou.com/short-video/3xb2t6xwxw5y3r6)
 1. [这句道歉已经等了88年](https://www.kuaishou.com/short-video/3x3b67itx5fjmrw)
-1. [日本住持捐出5000份日军侵华史料](https://www.kuaishou.com/short-video/3xnvsa8gwew5gvi)
+1. [成都女子被捅10刀身亡](https://www.kuaishou.com/short-video/3xeweydj6hdzu2g)
 1. [解读中央经济工作会议精神](https://www.kuaishou.com/short-video/3xhzv8u7ztfxan9)
+1. [日本住持捐出5000份日军侵华史料](https://www.kuaishou.com/short-video/3xnvsa8gwew5gvi)
 1. [狗狗穿旧衣被勒肿](https://www.kuaishou.com/short-video/3x5eqcsf89juzw2)
-1. [白银暴涨有人2月狂赚16万](https://www.kuaishou.com/short-video/3x9tj9s4w4beypc)
-1. [张凯毅称4斤黄金凤冠被毁未索赔](https://www.kuaishou.com/short-video/3x5qpbnfs55aj56)
-1. [日本为什么不敢承认南京大屠杀](https://www.kuaishou.com/short-video/3xhp6wwf6rp8q4y)
+1. [日本初中课本完全没日军暴行照片](https://www.kuaishou.com/short-video/3xi3t4zipwzqwrs)
 1. [警惕日本谋划“太空珍珠港事件”](https://www.kuaishou.com/short-video/3xyqcuiiu4e6tyi)
+1. [白银暴涨有人2月狂赚16万](https://www.kuaishou.com/short-video/3x9tj9s4w4beypc)
 1. [致敬残特奥会运动员](https://www.kuaishou.com/short-video/3xnmrmw5xnaamdc)
-1. [人民子弟兵紧急救援女孩](https://www.kuaishou.com/short-video/3xzbcx7ebm9khca)
+1. [张凯毅称4斤黄金凤冠被毁未索赔](https://www.kuaishou.com/short-video/3x5qpbnfs55aj56)
 1. [重庆江北机场辟谣T2停用](https://www.kuaishou.com/short-video/3xkmj9x8h76fhfw)
 1. [高中女教师新婚当天坠楼身亡](https://www.kuaishou.com/short-video/3xrrugf3pap4nb6)
-1. [当有公主病的人要转到我们寝室](https://www.kuaishou.com/short-video/3xmivqskzkgzz5q)
-1. [拒绝XX羞耻是什么梗](https://www.kuaishou.com/short-video/3xfd9ivbcxtbyw4)
 1. [给我擦皮鞋](https://www.kuaishou.com/short-video/3xpiyrjek3z9g6a)
+1. [拒绝XX羞耻是什么梗](https://www.kuaishou.com/short-video/3xfd9ivbcxtbyw4)
 1. [重庆10人聚餐9人开溜事件进展](https://www.kuaishou.com/short-video/3x4783jn9bunwg6)
-1. [81年男子接娃被认成爷爷](https://www.kuaishou.com/short-video/3xnvhid2ciirbv2)
+1. [当有公主病的人要转到我们寝室](https://www.kuaishou.com/short-video/3xmivqskzkgzz5q)
 1. [中国火箭军：以国之名 祭奠](https://www.kuaishou.com/short-video/3xhyrx9uvjg7jtc)
-1. [书香与客流共赴美好之约](https://www.kuaishou.com/short-video/3xdvywjb93x6v94)
+1. [81年男子接娃被认成爷爷](https://www.kuaishou.com/short-video/3xnvhid2ciirbv2)
 1. [转职山东人是什么梗](https://www.kuaishou.com/short-video/3xsefw5vj5m2n62)
-1. [日本初中课本完全没日军暴行照片](https://www.kuaishou.com/short-video/3xi3t4zipwzqwrs)
+1. [柯文哲斥赖清德比蔡英文更糟糕](https://www.kuaishou.com/short-video/3xfa9h2bvka262s)
+1. [日本为什么不敢承认南京大屠杀](https://www.kuaishou.com/short-video/3xhp6wwf6rp8q4y)
 1. [今朝若是同淋雪此生也算共白头](https://www.kuaishou.com/short-video/3xyyriji5hsamja)
-1. [猜不透dj手势舞](https://www.kuaishou.com/short-video/3x9bizmsybuwcd6)
+1. [人民子弟兵紧急救援女孩](https://www.kuaishou.com/short-video/3xzbcx7ebm9khca)
 1. [“痞子老妖”心梗离世](https://www.kuaishou.com/short-video/3xgsnwjkdf543mg)
-1. [你从来没有在乎我的感受翻唱](https://www.kuaishou.com/short-video/3xmn83imaj52786)
-1. [2025年最暖心的梗出现了](https://www.kuaishou.com/short-video/3x6wkzwncy6sxqw)
 1. [日军细菌战不止针对中国](https://www.kuaishou.com/short-video/3xg4cmmdy2bct7c)
+1. [iOS26.2要不要升级](https://www.kuaishou.com/short-video/3x5a5kv4a547zvq)
+1. [六岁女孩拼音误会舅舅](https://www.kuaishou.com/short-video/3xgtvf6339raaqy)
+1. [起底直播间推流骗局](https://www.kuaishou.com/short-video/3xt9kck2egj83ag)
+1. [女友撕毁前任买的衣服](https://www.kuaishou.com/short-video/3xyuzj63wuwrn69)
+1. [今天穿什么卡点舞](https://www.kuaishou.com/short-video/3xqd3jfkiphxw34)
+1. [宋雨琦一句话把敖瑞鹏问住了](https://www.kuaishou.com/short-video/3xjwwdxasdbppvm)
+1. [水银体温计线上炒至99元](https://www.kuaishou.com/short-video/3x8pi25rk8wcvi6)
+1. [你从来没有在乎我的感受翻唱](https://www.kuaishou.com/short-video/3xmn83imaj52786)
+1. [河南大叔收藏上万件日军侵华铁证](https://www.kuaishou.com/short-video/3x5xjfrin433vtw)
+1. [考完四六级的我](https://www.kuaishou.com/short-video/3xr7bca3rkscpxm)
+1. [日本前首相谈历史真相](https://www.kuaishou.com/short-video/3xun4n8e8ge49vw)
+1. [深圳海关查获地毯藏毒](https://www.kuaishou.com/short-video/3xd5vy2t3qaat69)
+1. [均价500元的手机壳被吐槽质量差](https://www.kuaishou.com/short-video/3xrhp7y97288u9i)
+1. [安徽军人邵瑞追记一等功](https://www.kuaishou.com/short-video/3xbpbxmh5rjwujq)
+1. [别哭了我爱你翻唱](https://www.kuaishou.com/short-video/3xbhar53evz9a6e)
+1. [你身上有他的香水味](https://www.kuaishou.com/short-video/3xgfrgqjvyjs2ne)
+1. [妈妈早餐进化史](https://www.kuaishou.com/short-video/3x966mseav9u5qy)
+1. [十八岁女战士魂归故里](https://www.kuaishou.com/short-video/3xr2f5p26j4z58q)
+1. [董智森：台湾真的会被民进党败掉](https://www.kuaishou.com/short-video/3x4gy8c9ah9m6ds)
+1. [王曼昱4比0陈熠晋级决赛](https://www.kuaishou.com/short-video/3x698ss9qwnvkpi)
+1. [专家谈日本九州集结两栖作战部队](https://www.kuaishou.com/short-video/3xua8ptiihg3cp6)
+1. [钟南山忆南京轰炸往事](https://www.kuaishou.com/short-video/3xy2ngy2uqsb2zw)
+1. [俄方称今年超40万人入伍](https://www.kuaishou.com/short-video/3x74rd2u3btptx6)
+1. [泰国总理称将继续采取军事行动](https://www.kuaishou.com/short-video/3xafm3sw8weq5h4)
+1. [湖南怀化贩婴案18人落网](https://www.kuaishou.com/short-video/3xz4ipiqrnbgufg)
+1. [书香与客流共赴美好之约](https://www.kuaishou.com/short-video/3xdvywjb93x6v94)
+1. [猜不透dj手势舞](https://www.kuaishou.com/short-video/3x9bizmsybuwcd6)
+1. [2025年最暖心的梗出现了](https://www.kuaishou.com/short-video/3x6wkzwncy6sxqw)
 1. [三都风味勾起乡愁](https://www.kuaishou.com/short-video/3x7dmve694972p4)
 1. [人类文明延续方法在宇宙中](https://www.kuaishou.com/short-video/3x3u5aemzgfcakw)
-1. [湖南怀化贩婴案18人落网](https://www.kuaishou.com/short-video/3xz4ipiqrnbgufg)
-1. [安徽军人邵瑞追记一等功](https://www.kuaishou.com/short-video/3xbpbxmh5rjwujq)
 1. [good boy舞蹈](https://www.kuaishou.com/short-video/3xg6nwdymdigcnm)
-1. [河南大叔收藏上万件日军侵华铁证](https://www.kuaishou.com/short-video/3x5xjfrin433vtw)
-1. [iOS26.2要不要升级](https://www.kuaishou.com/short-video/3x5a5kv4a547zvq)
-1. [今天穿什么卡点舞](https://www.kuaishou.com/short-video/3xqd3jfkiphxw34)
-1. [别哭了我爱你翻唱](https://www.kuaishou.com/short-video/3xbhar53evz9a6e)
 1. [两女生墓碑前悼念闺蜜](https://www.kuaishou.com/short-video/3xubq4udchrwf2e)
 1. [虞书欣争议缠身未回应](https://www.kuaishou.com/short-video/3x84ujmzk7hjcqq)
-1. [六岁女孩拼音误会舅舅](https://www.kuaishou.com/short-video/3xgtvf6339raaqy)
 1. [日本习惯性拉美国来为其站台](https://www.kuaishou.com/short-video/3x8tuicf4i8vmsu)
 1. [深夜是谁的电话响](https://www.kuaishou.com/short-video/3xuunfdznn4z74c)
-1. [起底直播间推流骗局](https://www.kuaishou.com/short-video/3xt9kck2egj83ag)
-1. [十八岁女战士魂归故里](https://www.kuaishou.com/short-video/3xr2f5p26j4z58q)
 1. [章莹颖遇害8年家人未走出伤痛](https://www.kuaishou.com/short-video/3xvtqyp7xngwd9w)
-1. [专家谈日本九州集结两栖作战部队](https://www.kuaishou.com/short-video/3xua8ptiihg3cp6)
 1. [外孙女出嫁姥姥窗外注视](https://www.kuaishou.com/short-video/3xpi4i7xb2sf8pm)
-1. [钟南山忆南京轰炸往事](https://www.kuaishou.com/short-video/3xy2ngy2uqsb2zw)
 1. [河北本周降雪结束](https://www.kuaishou.com/short-video/3xagnthkiknhfk4)
-1. [考完四六级的我](https://www.kuaishou.com/short-video/3xr7bca3rkscpxm)
 1. [玉玲珑cos](https://www.kuaishou.com/short-video/3xfsu6wdwkkfvka)
 1. [内蒙古汪汪队雪中有序过马路](https://www.kuaishou.com/short-video/3x6f7ice3746gbm)
 1. [武警官兵缅怀肖思远烈士](https://www.kuaishou.com/short-video/3xbnivu4q2vq4zc)
@@ -398,15 +412,12 @@
 1. [虞书欣哭戏](https://www.kuaishou.com/short-video/3xuz8738zd58jcm)
 1. [有你的日子之后 我不再出去喝酒](https://www.kuaishou.com/short-video/3x8wv53qjzbt38y)
 1. [我才8岁被日军刺得血流满身](https://www.kuaishou.com/short-video/3x4e9ezdivxzxi6)
-1. [董智森：台湾真的会被民进党败掉](https://www.kuaishou.com/short-video/3x4gy8c9ah9m6ds)
 1. [中日外交舆论战持续](https://www.kuaishou.com/short-video/3xckkytu9yd3wsa)
 1. [礼兵向南京大屠杀死难者敬献花圈](https://www.kuaishou.com/short-video/3xg274e688bwi69)
 1. [医生提醒日食40个鸡蛋营养超标](https://www.kuaishou.com/short-video/3xuc4zp5nvw5t99)
 1. [大屠杀后南京到处是人体残骸](https://www.kuaishou.com/short-video/3x3cuncqpxammvm)
 1. [叙利亚一婚礼现场发生爆炸致33伤](https://www.kuaishou.com/short-video/3xjz9phbme3b46u)
-1. [均价500元的手机壳被吐槽质量差](https://www.kuaishou.com/short-video/3xrhp7y97288u9i)
 1. [日本人为什么那样地惨无人道](https://www.kuaishou.com/short-video/3x4e9z2zj4emcsi)
-1. [俄方称今年超40万人入伍](https://www.kuaishou.com/short-video/3x74rd2u3btptx6)
 1. [柬军机枪射击泰国战机](https://www.kuaishou.com/short-video/3xvf2apgtspfbvk)
 1. [97岁百战老兵冲锋号伴一生](https://www.kuaishou.com/short-video/3xujisux5fz45m2)
 1. [解放军报国家公祭日发文](https://www.kuaishou.com/short-video/3xvxj2xgxjhsu3a)
