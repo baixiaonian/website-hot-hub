@@ -5,22 +5,22 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2025-12-26 00:34:56 +0800 -->
+<!-- 最后更新时间 2025-12-26 01:24:59 +0800 -->
 1. [8点1氪｜官方回应吸毒记录封存相关问题；强生爽身粉致癌案判赔女子约110亿元；俞敏洪敲定东方甄选接班人](https://36kr.com/p/3610187649483779)
 1. [历经 90 年，又一爆款神车，宣布停产](https://36kr.com/p/3609639081378825)
 1. [黄仁勋200亿美元带走「TPU核心班底」](https://36kr.com/p/3610231108027394)
 1. [40万级豪车TOP10，有六辆国产了](https://36kr.com/p/3610397577806850)
 1. [2026 年 ChatGPT 要加广告了，最懂你的 AI 都开始出卖你](https://36kr.com/p/3610402296497153)
 1. [“骗国家钱，非常卑鄙”，魏建军怒批“零公里二手车”](https://36kr.com/p/3610230725854465)
-1. [「AI教母」李飞飞最新采访：我最恐惧的，是人类在AI面前的放弃](https://36kr.com/p/3610125430441221)
 1. [占比超一半，海外快成中国车企的主战场了](https://36kr.com/p/3610330106970632)
+1. [「AI教母」李飞飞最新采访：我最恐惧的，是人类在AI面前的放弃](https://36kr.com/p/3610125430441221)
 1. [2025年最大商战背后：电商与外卖的边界正在消融丨36氪年度透视⑥](https://36kr.com/p/3610427502560514)
 1. [新势力吹爆的大压铸，老牌车企却不认可？](https://36kr.com/p/3610105915196681)
 1. [“避雷”难倒小红书](https://36kr.com/p/3610322664555784)
-1. [敢跟李想「拍桌子」的王牌产品负责人，离职了](https://36kr.com/p/3610538818372870)
-1. [中国大模型团队登Nature封面，刘知远语出惊人：期待明年“用AI造AI”](https://36kr.com/p/3610227079398662)
-1. [耳机上为何长出了摄像头？](https://36kr.com/p/3610435980494083)
 1. [中国旅游团，消失在欧洲](https://36kr.com/p/3610239859606793)
+1. [敢跟李想「拍桌子」的王牌产品负责人，离职了](https://36kr.com/p/3610538818372870)
+1. [耳机上为何长出了摄像头？](https://36kr.com/p/3610435980494083)
+1. [中国大模型团队登Nature封面，刘知远语出惊人：期待明年“用AI造AI”](https://36kr.com/p/3610227079398662)
 1. [特斯拉最新FSD推送，英伟达机器人主管：分不清人还是AI在开](https://36kr.com/p/3610202154730500)
 1. [折叠屏的2025：轻薄化走到尽头，新形态暗流涌动，各路「选手」奔赴新战场](https://36kr.com/p/3610355313001218)
 1. [停车场刺客，2025终于刺不动了](https://36kr.com/p/3610288697853193)
@@ -32,28 +32,30 @@
 1. [游戏AI来了，英伟达新模型看直播学会所有游戏，GPT-5.2秒杀塞尔达](https://36kr.com/p/3610595480241412)
 1. [学习了这个方法，让你拥有可以「穿越时间」的大脑](https://36kr.com/p/3610181672617221)
 1. [在资本赛道狂飙，在漆黑路口熄火：Waymo的2025扩张悖论](https://36kr.com/p/3610168913298440)
-1. [蜜雪翻车、古茗出圈，奶茶店卖早餐究竟有多难](https://36kr.com/p/3610150269993985)
 1. [贾跃亭的「最后一搏」：法拉第未来新车下线，是重生还是续命？](https://36kr.com/p/3610444233884417)
+1. [蜜雪翻车、古茗出圈，奶茶店卖早餐究竟有多难](https://36kr.com/p/3610150269993985)
 1. [美国“创世纪”决战打响，24科技巨头签下“卖身契”，中国如何应对？](https://36kr.com/p/3609599233852680)
-1. [大洋彼岸的“AI擦边”生意：废弃电厂变身提款机，矿机商拿到AI帝国入场券](https://36kr.com/p/3610160854795522)
 1. [中国科技产业2025十大事件](https://36kr.com/p/3610455928193537)
+1. [大洋彼岸的“AI擦边”生意：废弃电厂变身提款机，矿机商拿到AI帝国入场券](https://36kr.com/p/3610160854795522)
 1. [烧光15亿！曾叫板迪士尼的乐园，开业4年倒闭，今竟成网红打卡地](https://36kr.com/p/3610320683533568)
 1. [从孙东旭到孙进，俞敏洪还是只信“自己人”](https://36kr.com/p/3610431874171912)
 1. [水洗标写的100%羊毛其实不是羊毛？怎么这年头要这么骗我](https://36kr.com/p/3610105552340233)
-1. [那些看着很有意思的职业，有苦也难言](https://36kr.com/p/3610345117451265)
-1. [姚顺雨要帮腾讯“颠覆”微信？](https://36kr.com/p/3610779588002822)
 1. [全球车龄老化催生万亿售后市场：eBay聚焦欧美双核市场、发布2026计划丨最前线](https://36kr.com/p/3610749070263301)
-1. [中国内地亿万富豪增至470位，98%白手起家](https://36kr.com/p/3610310978339847)
+1. [姚顺雨要帮腾讯“颠覆”微信？](https://36kr.com/p/3610779588002822)
+1. [那些看着很有意思的职业，有苦也难言](https://36kr.com/p/3610345117451265)
 1. [物理学变天，「AI主导」论文首次登顶刊，人类科学家沦为验证者？](https://36kr.com/p/3610595230762248)
-1. [如何保持肠道健康？](https://36kr.com/p/3584827418344328)
-1. [一片录音卡，重写大厂硬件故事](https://36kr.com/p/3610566546605065)
-1. [「2025是海洋科技元年」，智能船舶与水中装备正在爆发前夜｜OpenTalk回顾](https://36kr.com/p/3610328679498752)
-1. [AI电商激烈搏杀，亚马逊屏蔽ChatGPT](https://36kr.com/p/3610416172647426)
-1. [日销40万杯，草莓饮品大爆发，这一杯圣诞被疯抢](https://36kr.com/p/3610223968551942)
+1. [中国内地亿万富豪增至470位，98%白手起家](https://36kr.com/p/3610310978339847)
 1. [自动驾驶赛道正悄然生变，Robobus将成下一个千亿赛道](https://36kr.com/p/3610586160579334)
 1. [年终总结②：200亿出海市场，谁在闷声赚大钱](https://36kr.com/p/3610888939127815)
-1. [南京、宁波、天津、青岛，冲刺2万亿！](https://36kr.com/p/3610363557643526)
+1. [如何保持肠道健康？](https://36kr.com/p/3584827418344328)
+1. [「2025是海洋科技元年」，智能船舶与水中装备正在爆发前夜｜OpenTalk回顾](https://36kr.com/p/3610328679498752)
+1. [一片录音卡，重写大厂硬件故事](https://36kr.com/p/3610566546605065)
+1. [AI电商激烈搏杀，亚马逊屏蔽ChatGPT](https://36kr.com/p/3610416172647426)
 1. [汽车出海的决胜关键是什么？](https://36kr.com/p/3610512116876545)
+1. [日销40万杯，草莓饮品大爆发，这一杯圣诞被疯抢](https://36kr.com/p/3610223968551942)
+1. [全世界，都在围堵隐藏门把手](https://36kr.com/p/3610780910699777)
+1. [南京、宁波、天津、青岛，冲刺2万亿！](https://36kr.com/p/3610363557643526)
+1. [市场监管总局罕见发文，真有车企在亏本卖车？](https://36kr.com/p/3610898551784452)
 1. [别直接训，给主模型加个错题本，6B轻松超越8B](https://36kr.com/p/3610595489105159)
 1. [2025悬疑剧：困局与破局](https://36kr.com/p/3609493206615302)
 <!-- END 36KR -->
@@ -63,7 +65,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2025-12-26 00:34:57 +0800 -->
+<!-- 最后更新时间 2025-12-26 01:25:00 +0800 -->
 1. [羊村第五季（1）](https://b23.tv/BV1ULBgBiEjT)
 1. [《斩杀那个美利坚人》英文填词（cover杀死那个石家庄人）](https://b23.tv/BV1JuBuBQE4P)
 1. [「星语共愿」特别纪念PV](https://b23.tv/BV1hrBKBAEuA)
@@ -229,7 +231,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2025-12-26 00:35:01 +0800 -->
+<!-- 最后更新时间 2025-12-26 01:25:03 +0800 -->
 1. [2025快手直播至暗时刻：当黑产自动化洪流击穿P0防线，我们前端能做什么？🤷‍♂️](https://juejin.cn/post/7586944874526539814)
 1. [八年开源，GSY 用五种技术开发了同一个 Github 客户端，这次轮到 AI + Compose](https://juejin.cn/post/7585645111876632603)
 1. [Node.js 原生功能狂飙，15 个热门 npm 包要失业了](https://juejin.cn/post/7586192313635389474)
@@ -247,22 +249,22 @@
 1. [三年前，我帮万人转Go；今天，聊聊Go/Java程序员如何抢占AI高地](https://juejin.cn/post/7586263211087986714)
 1. [逃出结构化思维：从向量，向量数据库到RAG](https://juejin.cn/post/7587074669818134554)
 1. [Ant Design 6.0 尝鲜：上手现代化组件开发｜得物技术](https://juejin.cn/post/7586597780641333258)
-1. [nest.js / hono.js 一起学！日志功能/统一返回格式/错误处理](https://juejin.cn/post/7585798113547829298)
 1. [TRAE 国内版 SOLO 全放开](https://juejin.cn/post/7587252766832033834)
+1. [nest.js / hono.js 一起学！日志功能/统一返回格式/错误处理](https://juejin.cn/post/7585798113547829298)
 1. [前端崩溃监控：给网页戴上“生命体征监测仪”](https://juejin.cn/post/7586684925106389035)
 1. [Next.js第十五章(Image)](https://juejin.cn/post/7585897699602923546)
 1. [高并发下如何防止重复提交订单？](https://juejin.cn/post/7586588823905468425)
-1. [一个大龄程序员的地铁日记（第5期），几乎都关于读书](https://juejin.cn/post/7587245616754343987)
 1. [2026最新款Vite7+Vue3+DeepSeek-V3.2+Markdown流式输出AI会话](https://juejin.cn/post/7586994471738392619)
+1. [一个大龄程序员的地铁日记（第5期），几乎都关于读书](https://juejin.cn/post/7587245616754343987)
 1. [JavaScript 还有第三种注释？--> 竟然合法](https://juejin.cn/post/7586954475657232430)
 1. [AI 全栈--reactjs 基础总结](https://juejin.cn/post/7586686861390479411)
 1. [前端大数字精度解决：big.js的教程和原理解析](https://juejin.cn/post/7585751355592949779)
 1. [Swift、SwiftUI 与 SwiftData：走向成熟的 2025  -- 肘子的 Swift 周报 #116](https://juejin.cn/post/7586559672128864308)
 1. [React + ECharts 多图表联动实战：从零实现 Tooltip 同步与锁定功能](https://juejin.cn/post/7586540799249940534)
 1. [《2025 AI 自动化新高度：一套代码搞定 iOS、Android 双端，全平台 AutoGLM 部署实战》](https://juejin.cn/post/7586861592710004772)
-1. [算法效率的核心：时间复杂度与空间复杂度](https://juejin.cn/post/7587299670641639430)
 1. [Go 1.25.5 通关讲解](https://juejin.cn/post/7586939930155401259)
 1. [Java 开发必看：什么时候用 for，什么时候用 Stream？](https://juejin.cn/post/7586688485727191046)
+1. [算法效率的核心：时间复杂度与空间复杂度](https://juejin.cn/post/7587299670641639430)
 1. [深入理解 Webpack5：从打包到热更新原理](https://juejin.cn/post/7586569284551229480)
 1. [数据传参明妙理 临危受命逢转机](https://juejin.cn/post/7586531677720723491)
 1. [GLM-4.7 上手初测：前端审美确实能打，值得一试](https://juejin.cn/post/7586971886589444139)
@@ -276,7 +278,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2025-12-26 00:34:54 +0800 -->
+<!-- 最后更新时间 2025-12-26 01:24:58 +0800 -->
 1. [新玩意 230｜少数派的编辑们最近买了啥？](https://sspai.com/post/104706)
 1. [编辑部圆桌 | 从 Windows 迁移至 Mac，他们为什么如此选择](https://sspai.com/post/104699)
 1. [那究竟什么是 Material 3 Expressive？以 Android 16 正式版为例](https://sspai.com/post/104595)
@@ -324,27 +326,32 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2025-12-26 00:35:03 +0800 -->
+<!-- 最后更新时间 2025-12-26 01:25:04 +0800 -->
 1. [骄阳似我（下｜宋威龙、赵今麦主演同名电视剧原著）](https://weread.qq.com/web/bookDetail/f3532190813abb00dg01482b)
-1. [观心](https://weread.qq.com/web/bookDetail/16e32b50813ababa5g018963)
-1. [能量的真相](https://weread.qq.com/web/bookDetail/8d932e10813abafc9g017ae1)
-1. [骄阳似我（上｜宋威龙、赵今麦主演同名电视剧原著）](https://weread.qq.com/web/bookDetail/e6c32e2053b775e6c22d6db)
 1. [历史的错觉](https://weread.qq.com/web/bookDetail/b2e325e0813abb01cg018d6b)
+1. [观心](https://weread.qq.com/web/bookDetail/16e32b50813ababa5g018963)
+1. [骄阳似我（上｜宋威龙、赵今麦主演同名电视剧原著）](https://weread.qq.com/web/bookDetail/e6c32e2053b775e6c22d6db)
+1. [能量的真相](https://weread.qq.com/web/bookDetail/8d932e10813abafc9g017ae1)
 1. [新省委书记：靠妻子上位市长的权欲挣扎](https://weread.qq.com/web/bookDetail/cfa32720813abaf27g013a49)
-1. [巫蛊：中国文化的历史暗流](https://weread.qq.com/web/bookDetail/28f32a90813abafa1g01939f)
+1. [天蓝色的彼岸](https://weread.qq.com/web/bookDetail/c9d328e0813ab67d9g01743c)
+1. [我把自己养成了更好的人](https://weread.qq.com/web/bookDetail/b4632600813ab94abg0147dd)
+1. [安娜·卡列尼娜](https://weread.qq.com/web/bookDetail/2a5326a0813abae42g0109ca)
 1. [我以为这辈子完蛋了](https://weread.qq.com/web/bookDetail/39332f50813ab9cf3g010df3)
+1. [九诗心：暗夜里的文学启明](https://weread.qq.com/web/bookDetail/f7e32280813ab9eb3g015d98)
+1. [此刻是春天（微信读书特别版）](https://weread.qq.com/web/bookDetail/b0b32630813abaadeg0157d1)
 1. [父母：挑战（果麦经典）](https://weread.qq.com/web/bookDetail/e5e32830813ab9c73g014418)
 1. [像水一样吧，朋友：我从父亲李小龙身上获得的智慧、哲思和勇气](https://weread.qq.com/web/bookDetail/65a321f0813ab75adg01407b)
-1. [裙摆之下](https://weread.qq.com/web/bookDetail/56732790813abafbcg015836)
-1. [九诗心：暗夜里的文学启明](https://weread.qq.com/web/bookDetail/f7e32280813ab9eb3g015d98)
+1. [剑来（1-54 完结精校版）](https://weread.qq.com/web/bookDetail/dee32e1071db086fdeef491)
+1. [一个女人一生中的二十四小时（果麦经典）](https://weread.qq.com/web/bookDetail/bcc32220813aba6bbg013071)
 1. [我看见的世界：李飞飞自传](https://weread.qq.com/web/bookDetail/76c32a50813ab9e4fg01737b)
-1. [此刻是春天（微信读书特别版）](https://weread.qq.com/web/bookDetail/b0b32630813abaadeg0157d1)
+1. [裙摆之下](https://weread.qq.com/web/bookDetail/56732790813abafbcg015836)
 1. [消失的多巴胺：为什么你越来越不快乐？](https://weread.qq.com/web/bookDetail/de1326c0813ab9641g0144d7)
+1. [《古董局中局》（全集，共4册）](https://weread.qq.com/web/bookDetail/4e432f505b81464e456f9df)
+1. [巫蛊：中国文化的历史暗流](https://weread.qq.com/web/bookDetail/28f32a90813abafa1g01939f)
 1. [去家访：我的二本学生2](https://weread.qq.com/web/bookDetail/7d0328c0813abab9bg0141fd)
 1. [丹娘：能打会算庶女×运筹帷幄权臣](https://weread.qq.com/web/bookDetail/22c327f0813aba16dg015643)
 1. [她乡](https://weread.qq.com/web/bookDetail/a8132880813aba292g014556)
 1. [不上班的这几年](https://weread.qq.com/web/bookDetail/6e5323a0813aba08eg018ab0)
-1. [《古董局中局》（全集，共4册）](https://weread.qq.com/web/bookDetail/4e432f505b81464e456f9df)
 <!-- END WEREAD -->
 
 历史归档 [./archives/weread](./archives/weread)
