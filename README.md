@@ -5,7 +5,7 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2026-01-01 00:44:16 +0800 -->
+<!-- 最后更新时间 2026-01-01 01:25:04 +0800 -->
 1. [8点1氪丨特斯拉“车顶维权”女车主被限高，申请人为特斯拉；多家品牌足金首饰价格大幅下跌；蔡磊渐冻症病情接近终末期](https://36kr.com/p/3618695695041800)
 1. [明年购车最高补贴2万元，消费者笑了，黄牛哭了](https://36kr.com/p/3618722984625159)
 1. [Manus数十亿美元卖身，中国AI应用的关键词只有一个｜深氪](https://36kr.com/p/3618211929555974)
@@ -19,24 +19,24 @@
 1. [一双1288元的AI鞋垫，真能取代滑雪教练吗？](https://36kr.com/p/3618940730852609)
 1. [“星空计划”登陆CES，跨界造车卷土重来？](https://36kr.com/p/3618723053077761)
 1. [全球首个，马斯克没造出来的伴侣机器人，稚晖君造出来了](https://36kr.com/p/3619132698068227)
+1. [自动驾驶2025年终盘点：走出“青春期”，从技术炫技到全球落地](https://36kr.com/p/3618903155929602)
 1. [DeepSeek，居然只是个副项目？](https://36kr.com/p/3619114007069697)
 1. [德国海归博士创业，钠远新材NFS系统料量产，将开启万吨级产能丨36氪首发](https://36kr.com/p/3618022978962441)
-1. [自动驾驶2025年终盘点：走出“青春期”，从技术炫技到全球落地](https://36kr.com/p/3618903155929602)
 1. [瞄准海外招聘市场痛点，这款“AI猎头”应用获媒体巨头贝塔斯曼投资](https://36kr.com/p/3619067392836613)
-1. [红熊AI获8000万元Pre-A+轮融资，聚焦记忆科学，旨在赋予人工智能接近人类的记忆能力](https://36kr.com/p/3618389090796805)
-1. [Manus天价卖身，但Agent的春天还没来](https://36kr.com/p/3618127845978632)
 1. [大众汽车在中国：用8000项标准与35亿欧元构建安全防线​ | 最前线​](https://36kr.com/p/3619080127071235)
+1. [Manus天价卖身，但Agent的春天还没来](https://36kr.com/p/3618127845978632)
+1. [红熊AI获8000万元Pre-A+轮融资，聚焦记忆科学，旨在赋予人工智能接近人类的记忆能力](https://36kr.com/p/3618389090796805)
 1. [罗永浩：以科技之名，靠嘴吃饭](https://36kr.com/p/3618813221602306)
 1. [买下那个美国老牌，深圳头部大卖营收破10亿后的海外战事｜Insight全球](https://36kr.com/p/3618135018112260)
 1. [为什么Manus没有留在中国？](https://36kr.com/p/3618891535168008)
 1. [只有罗永浩还在靠嘴吃饭](https://36kr.com/p/3618961094144515)
-1. [「深脉矿业」获天空工场创投基金数千万元投资，开启“机器人勘探”新纪元](https://36kr.com/p/3618939790902534)
 1. [新能源车维保又贵又难，到底有没有解法？](https://36kr.com/p/3617832138064902)
+1. [「深脉矿业」获天空工场创投基金数千万元投资，开启“机器人勘探”新纪元](https://36kr.com/p/3618939790902534)
 1. [陈立武的无限战争](https://36kr.com/p/3618835677840391)
 1. [硅谷夜不能寐，三家顶级实验室同时自曝：AI未经编程，涌现惊人能力](https://36kr.com/p/3619093166802184)
+1. [打工人刚需疯狂涨价，00后一点也不担心](https://36kr.com/p/3619182884586752)
 1. [三星三折叠，为什么卖一台亏一台](https://36kr.com/p/3617986264057096)
 1. [黄仁勋最新访谈：英伟达要用AI造一台“时间机器”，看好人形机器人](https://36kr.com/p/3618014499701769)
-1. [打工人刚需疯狂涨价，00后一点也不担心](https://36kr.com/p/3619182884586752)
 1. [华科系团队打造“零传动”锻造装备，获工业母机基金投资，将实现万吨级设备国产替代｜36氪首发](https://36kr.com/p/3618040187602182)
 1. [李泽湘系机器人公司上市背后，一场回报700倍的8年长跑](https://36kr.com/p/3617555790398721)
 1. [史上最快暴富，90后中国小伙，10天狂赚数百亿……](https://36kr.com/p/3618603641292041)
@@ -44,17 +44,18 @@
 1. [扩张集体放缓，新茶饮第一梯队踩下急刹车](https://36kr.com/p/3618695252706306)
 1. [收购Manus引入中国鲶鱼：扎克伯格的AI焦虑症之年](https://36kr.com/p/3618923610702850)
 1. [确诊了，这届年轻人的跨年“集体i人化”](https://36kr.com/p/3618835348456454)
+1. [马斯克宣称FSD v14意识觉醒，英伟达总监亲测](https://36kr.com/p/3619119605924871)
 1. [3个中国小伙创立的AI公司，被扎克伯格140亿元买下：他亲自操盘，只谈了十余天就敲定，不到3年估值暴增142倍，但也面临“套壳”质疑](https://36kr.com/p/3618750124819718)
 1. [手机碎屏险值得买吗？我们对比6大品牌后发现：规则越复杂，用户越吃亏](https://36kr.com/p/3618892308443655)
-1. [马斯克宣称FSD v14意识觉醒，英伟达总监亲测](https://36kr.com/p/3619119605924871)
 1. [36氪晚报｜特斯拉在韩国降价；宇树科技全球首店落地京东MALL；MiniMax香港IPO据称获得数倍认购](https://36kr.com/p/3618853154538505)
+1. [Ilya警告、LeCun冷嘲、奥特曼沉默：Scaling Law时代还能走多远？](https://36kr.com/p/3619103540135168)
 1. [3200亿丁磊，再“失”一员老将](https://36kr.com/p/3618075940074240)
 1. [罗永浩坦白患有ADHD：这是我一直迟到、拖延、犯错的原因](https://36kr.com/p/3619031440507907)
-1. [Ilya警告、LeCun冷嘲、奥特曼沉默：Scaling Law时代还能走多远？](https://36kr.com/p/3619103540135168)
-1. [两条腿走路的钉钉，需要双倍刻苦](https://36kr.com/p/3618659812508677)
+1. [新能源汽车售后，谁是一条龙，谁是一条虫](https://36kr.com/p/3619283205866752)
 1. [MOVA TPEAK新品发布，将智能云域声学与AI助手融入OWS耳机｜最前线](https://36kr.com/p/3619177035072774)
-1. [2025快消最大赌局：创始人集体退场，把百亿家业交给“二代”，到底靠不靠谱？](https://36kr.com/p/3618920165917699)
+1. [两条腿走路的钉钉，需要双倍刻苦](https://36kr.com/p/3618659812508677)
 1. [暴利的宠物，大厂的坟墓](https://36kr.com/p/3619082132931845)
+1. [2025快消最大赌局：创始人集体退场，把百亿家业交给“二代”，到底靠不靠谱？](https://36kr.com/p/3618920165917699)
 1. [中美算力，站在2000亿美元的分岔路口](https://36kr.com/p/3618831250326785)
 <!-- END 36KR -->
 
@@ -63,7 +64,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2026-01-01 00:44:16 +0800 -->
+<!-- 最后更新时间 2026-01-01 01:25:05 +0800 -->
 1. [【苏新皓｜4K直拍】Hey Mama 四机位直拍｜2026 TF家族新年音乐会·荣耀 DAY3](https://b23.tv/BV179v1B2Emc)
 1. [2025，人类写下了哪些故事?](https://b23.tv/BV1GRvzBQEeE)
 1. [【燃尽】科比全力备战高考的一天](https://b23.tv/BV1nHvhBGEjm)
@@ -229,7 +230,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2026-01-01 00:44:20 +0800 -->
+<!-- 最后更新时间 2026-01-01 01:25:11 +0800 -->
 1. [2025 年终醒悟，AI  让我误以为自己很强，未来程序员的转型之路](https://juejin.cn/post/7587845752681807935)
 1. [当 Gemini 3 能写出完美 CSS 时，前端工程师剩下的核心竞争力是什么？](https://juejin.cn/post/7588837042014060570)
 1. [2025，AI 编程元年，我用 AI 做了这些，并且获得TRAE年度创作之星！](https://juejin.cn/post/7588376012120686619)
@@ -271,6 +272,7 @@
 1. [防止短信验证码接口被盗刷问题](https://juejin.cn/post/7588733783571349542)
 1. [RocketMQ高性能揭秘：承载万亿级流量的架构奥秘｜得物技术](https://juejin.cn/post/7589325011543932966)
 1. [LogicFlow 交互新体验：告别直连，丝滑贝塞尔轨迹实战！🍫](https://juejin.cn/post/7589168816527949851)
+1. [一个普通魔法师的 2025 年度总结](https://juejin.cn/post/7589623325976199220)
 <!-- END JUEJIN -->
 
 历史归档 [./archives/juejin](./archives/juejin)
@@ -278,7 +280,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2025-12-31 23:28:50 +0800 -->
+<!-- 最后更新时间 2026-01-01 01:25:03 +0800 -->
 1. [ 即将告别 2025 年，这些「数字」值得被你留下](https://sspai.com/post/104890)
 1. [新玩意 231｜少数派的编辑们最近买了啥？](https://sspai.com/post/104895)
 1. [AI 饭局装腔指南：3 分钟速成行业大佬](https://sspai.com/post/104832)
@@ -319,7 +321,6 @@
 1. [众测 | 邀你一同探索模块化迷你主机 Khadas Mind 2](https://sspai.com/post/103074)
 1. [派评 | 近期值得关注的 App](https://sspai.com/post/103067)
 1. [鸿蒙 1024｜为缓你升级鸿蒙的阵痛，我做了一款工具箱：NEXT 升级站](https://sspai.com/post/103018)
-1. [副业淘宝店经营 1 周年，我获取了哪些经验？](https://sspai.com/post/102929)
 <!-- END SSPAI -->
 
 历史归档 [./archives/sspai](./archives/sspai)
@@ -327,26 +328,33 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2026-01-01 00:44:21 +0800 -->
-1. [侯门长媳：飒爽贵女×腹黑侯爷](https://weread.qq.com/web/bookDetail/8fb32580813abb029g019d37)
-1. [度春风：明艳美人×禁欲太子](https://weread.qq.com/web/bookDetail/62e32090813abaf2bg017428)
+<!-- 最后更新时间 2026-01-01 01:25:12 +0800 -->
 1. [家庭生活](https://weread.qq.com/web/bookDetail/4a9326d0722fa7074a94daa)
-1. [如何快速了解一个行业](https://weread.qq.com/web/bookDetail/4a1321f0813aba52eg011a0a)
-1. [偶遇：在漫游中感知艺术](https://weread.qq.com/web/bookDetail/8c7325a0813ab9c1cg0190dc)
-1. [群山祈祷](https://weread.qq.com/web/bookDetail/65d321e0813ab7f92g012e24)
+1. [南枝：乱世大女主](https://weread.qq.com/web/bookDetail/fcd32620813abae40g013345)
 1. [大宋诡案集](https://weread.qq.com/web/bookDetail/9a332c20813abaf92g019f78)
+1. [侯门长媳：飒爽贵女×腹黑侯爷](https://weread.qq.com/web/bookDetail/8fb32580813abb029g019d37)
+1. [如何了解一个人](https://weread.qq.com/web/bookDetail/94632490813abb094g0190a0)
+1. [度春风：明艳美人×禁欲太子](https://weread.qq.com/web/bookDetail/62e32090813abaf2bg017428)
 1. [剑来（1-54 完结精校版）](https://weread.qq.com/web/bookDetail/dee32e1071db086fdeef491)
 1. [我永远也当不了大人](https://weread.qq.com/web/bookDetail/bab32f70813ab83d6g015cfb)
-1. [皇城有好事](https://weread.qq.com/web/bookDetail/0aa325b0813aba780g0179a6)
 1. [我与地坛（插图版）](https://weread.qq.com/web/bookDetail/48432c1071ff64f54849ef8)
+1. [跨越边界的社区：北京“浙江村”的生活史](https://weread.qq.com/web/bookDetail/b9f328107155aac6b9f3f20)
+1. [如何快速了解一个行业](https://weread.qq.com/web/bookDetail/4a1321f0813aba52eg011a0a)
+1. [我才不想做家务（全网剖析隐形家务最彻底的一本书！）](https://weread.qq.com/web/bookDetail/800329f0813ab9643g0180bf)
+1. [皇城有好事](https://weread.qq.com/web/bookDetail/0aa325b0813aba780g0179a6)
+1. [背叛](https://weread.qq.com/web/bookDetail/3a032e50813abaef8g014a66)
+1. [剑来](https://weread.qq.com/web/bookDetail/8e5326b07153adcf8e53d42)
+1. [无条件养育](https://weread.qq.com/web/bookDetail/27b327b05e44c227b752c9d)
+1. [人生解忧：佛学入门四十讲](https://weread.qq.com/web/bookDetail/a2332ee0813aba1a7g0123df)
+1. [东京塔：老妈和我，有时还有老爸](https://weread.qq.com/web/bookDetail/339327a072a6fbe0339a274)
+1. [多我一个后富怎么了](https://weread.qq.com/web/bookDetail/48032e40729266124801701)
+1. [你是我的荣耀](https://weread.qq.com/web/bookDetail/b6532470718addf8b65da82)
+1. [偶遇：在漫游中感知艺术](https://weread.qq.com/web/bookDetail/8c7325a0813ab9c1cg0190dc)
+1. [群山祈祷](https://weread.qq.com/web/bookDetail/65d321e0813ab7f92g012e24)
 1. [骄阳似我（下｜宋威龙、赵今麦主演同名电视剧原著）](https://weread.qq.com/web/bookDetail/f3532190813abb00dg01482b)
 1. [此刻是春天（微信读书特别版）](https://weread.qq.com/web/bookDetail/b0b32630813abaadeg0157d1)
 1. [人生十二法则：现代人应对混乱生活的一剂良药](https://weread.qq.com/web/bookDetail/74732e20719fe4f4747f8f4)
 1. [证券市场周刊（2025年第44期）](https://weread.qq.com/web/bookDetail/4b3324f0813abb076g010e83)
-1. [剑来](https://weread.qq.com/web/bookDetail/8e5326b07153adcf8e53d42)
-1. [无条件养育](https://weread.qq.com/web/bookDetail/27b327b05e44c227b752c9d)
-1. [东京塔：老妈和我，有时还有老爸](https://weread.qq.com/web/bookDetail/339327a072a6fbe0339a274)
-1. [你是我的荣耀](https://weread.qq.com/web/bookDetail/b6532470718addf8b65da82)
 1. [油炸绿番茄](https://weread.qq.com/web/bookDetail/a3e32780813ab99c2g015bf4)
 <!-- END WEREAD -->
 
@@ -355,54 +363,70 @@
 ## 快手
 
 <!-- BEGIN KUAISHOU -->
-<!-- 最后更新时间 2026-01-01 00:49:11 +0800 -->
+<!-- 最后更新时间 2026-01-01 01:25:15 +0800 -->
 1. [习近平：祝大家万事皆可期](https://www.kuaishou.com/short-video/3x8stf3a6em4ci2)
 1. [2026新年贺词](https://www.kuaishou.com/short-video/3xwya98ss94p6bu)
 1. [大家铸就了欣欣向荣的中国](https://www.kuaishou.com/short-video/3x2xruqs8ebs42q)
 1. [小家热气腾腾 大家蒸蒸日上](https://www.kuaishou.com/short-video/3xiecj2vc7kp2tu)
-1. [新年快乐](https://www.kuaishou.com/short-video/3xchgkd599qe7kq)
-1. [央视跨年晚会唱响山西民歌](https://www.kuaishou.com/short-video/3x2tby5m6ingmym)
+1. [央视跨年晚会](https://www.kuaishou.com/short-video/3xncgyv84za8bfg)
 1. [元旦文案](https://www.kuaishou.com/short-video/3xg3iixgwg7abw2)
-1. [长春2026跨年盛景](https://www.kuaishou.com/short-video/3xv4nnrbebtm9ue)
+1. [2026年一大批重磅政策来了](https://www.kuaishou.com/short-video/3x2w4capqkawy6q)
 1. [新年贺词金句来了](https://www.kuaishou.com/short-video/3xershm5bgt5uzy)
 1. [向全国各族人民致以新年美好祝福](https://www.kuaishou.com/short-video/3xi5frm9tiui7se)
+1. [直击新年日出](https://www.kuaishou.com/short-video/3xjh25hqywygwes)
+1. [白鹿开口梦回临江仙](https://www.kuaishou.com/short-video/3xj7cy6bu5pwius)
+1. [跨年烟花](https://www.kuaishou.com/short-video/3x67tfsumfnxigg)
+1. [一人一句告别2025](https://www.kuaishou.com/short-video/3xa2swr2yte5h7w)
+1. [一起为梦想奋斗为幸福打拼](https://www.kuaishou.com/short-video/3x264d85fzcn58w)
+1. [东方卫视跨年晚会](https://www.kuaishou.com/short-video/3xsbrrii5kmry7e)
+1. [外交部发言人的新年祝福来了](https://www.kuaishou.com/short-video/3xegu5ykr5pb87u)
+1. [深市2025年分红超5000亿](https://www.kuaishou.com/short-video/3x5zrpvwcafq5d2)
+1. [张信哲跨年首唱守候](https://www.kuaishou.com/short-video/3xu2z6ufrvpe9de)
+1. [熊出没年年有熊预告](https://www.kuaishou.com/short-video/3xncg68p358wg4y)
+1. [黑龙江12米高雪地大宝贝](https://www.kuaishou.com/short-video/3xxm85t23ar8m8g)
+1. [人民陆军进行曲MV来了](https://www.kuaishou.com/short-video/3xwiaybfdwfr72q)
+1. [中国航天再现太空水母](https://www.kuaishou.com/short-video/3xpew4y8yrv7jq4)
+1. [北京卫视跨年晚会](https://www.kuaishou.com/short-video/3xv9ryge3c2xpg2)
+1. [杨坤哈尔滨唱无所谓](https://www.kuaishou.com/short-video/3xvm5hzmhxg82ia)
+1. [肖战不要回头首秀](https://www.kuaishou.com/short-video/3xa2nw9wd8bp2i6)
+1. [爱豆神级找镜头](https://www.kuaishou.com/short-video/3xp8rbdqpynb2qc)
+1. [国台办回应军演引发岛内强烈震撼](https://www.kuaishou.com/short-video/3xpf6kxw4w7x9qq)
+1. [求婚成功就像打赢了胜仗](https://www.kuaishou.com/short-video/3xg22mfrxcga4ru)
+1. [江苏卫视跨年晚会](https://www.kuaishou.com/short-video/3x3b6yi7t8kyggk)
+1. [孤身摇dj版](https://www.kuaishou.com/short-video/3xn8vyybcgebkda)
+1. [邓紫棋广州跨年演唱会](https://www.kuaishou.com/short-video/3xfzfbx69ywii3m)
+1. [明星们的跨年祝福请查收](https://www.kuaishou.com/short-video/3x4fqjbbcv868rw)
+1. [王源郑州跨年演唱会](https://www.kuaishou.com/short-video/3xgkftuc7gwzivc)
+1. [长春2026跨年盛景](https://www.kuaishou.com/short-video/3xv4nnrbebtm9ue)
+1. [CF胜利广场百分大战](https://www.kuaishou.com/short-video/3xrsiwiqis83khg)
+1. [一起看跨年烟花](https://www.kuaishou.com/short-video/3xw62nfnxkeuivg)
+1. [这么热闹的舞蹈cha场面第一次见](https://www.kuaishou.com/short-video/3xetspbq3ztka3q)
+1. [湖南卫视跨年晚会节目单](https://www.kuaishou.com/short-video/3xb6kxvh9tdxiek)
+1. [藏不住的告白开播](https://www.kuaishou.com/short-video/3xkscwj92hz3qni)
+1. [博雅跨年烟花转场](https://www.kuaishou.com/short-video/3xc29mvueyszwr2)
+1. [台湾当局应认清自己的处境](https://www.kuaishou.com/short-video/3xkuxjak9n65bnu)
+1. [徐艺洋猜不透dj手势舞](https://www.kuaishou.com/short-video/3xrsuxj5ekbidjq)
+1. [小时候的跨年笑话](https://www.kuaishou.com/short-video/3xmm2u6u2s3d23g)
+1. [跨年图片](https://www.kuaishou.com/short-video/3xgtaudktnxp2xg)
+1. [宋雨琦舞台生命力](https://www.kuaishou.com/short-video/3xs2t4txa6pdxiw)
+1. [琼爷跨年转场](https://www.kuaishou.com/short-video/3xxq2uksirez38s)
+1. [新年快乐](https://www.kuaishou.com/short-video/3xchgkd599qe7kq)
+1. [央视跨年晚会唱响山西民歌](https://www.kuaishou.com/short-video/3x2tby5m6ingmym)
 1. [用一场烟花迎接2026](https://www.kuaishou.com/short-video/3xvcyg6q2869y36)
 1. [贵州三都跨年美食盛宴](https://www.kuaishou.com/short-video/3xvg5jy32vc2yz9)
 1. [彩云追月广东人DNA动了](https://www.kuaishou.com/short-video/3xb3u7c2k39j7ps)
-1. [一人一句告别2025](https://www.kuaishou.com/short-video/3xa2swr2yte5h7w)
-1. [央视跨年晚会](https://www.kuaishou.com/short-video/3xncgyv84za8bfg)
-1. [黑龙江12米高雪地大宝贝](https://www.kuaishou.com/short-video/3xxm85t23ar8m8g)
-1. [东方卫视跨年晚会](https://www.kuaishou.com/short-video/3xsbrrii5kmry7e)
-1. [白鹿开口梦回临江仙](https://www.kuaishou.com/short-video/3xj7cy6bu5pwius)
 1. [元旦快乐](https://www.kuaishou.com/short-video/3xdf9682v33mzry)
-1. [2026年一大批重磅政策来了](https://www.kuaishou.com/short-video/3x2w4capqkawy6q)
-1. [跨年烟花](https://www.kuaishou.com/short-video/3x67tfsumfnxigg)
-1. [肖战不要回头首秀](https://www.kuaishou.com/short-video/3xa2nw9wd8bp2i6)
-1. [宋雨琦舞台生命力](https://www.kuaishou.com/short-video/3xs2t4txa6pdxiw)
-1. [邓紫棋广州跨年演唱会](https://www.kuaishou.com/short-video/3xfzfbx69ywii3m)
-1. [北京卫视跨年晚会](https://www.kuaishou.com/short-video/3xv9ryge3c2xpg2)
 1. [老式零食也能变这么潮](https://www.kuaishou.com/short-video/3xb6dm3b5m4hice)
 1. [汾西夜查非法采矿行动](https://www.kuaishou.com/short-video/3xpm6gi4hqsu6si)
-1. [跨年图片](https://www.kuaishou.com/short-video/3xgtaudktnxp2xg)
-1. [熊出没年年有熊预告](https://www.kuaishou.com/short-video/3xncg68p358wg4y)
 1. [延吉公安元旦执勤护安宁](https://www.kuaishou.com/short-video/3xfmpcjik6cd23a)
-1. [王源郑州跨年演唱会](https://www.kuaishou.com/short-video/3xgkftuc7gwzivc)
-1. [藏不住的告白开播](https://www.kuaishou.com/short-video/3xkscwj92hz3qni)
-1. [琼爷跨年转场](https://www.kuaishou.com/short-video/3xxq2uksirez38s)
 1. [古代人是怎么跨年的](https://www.kuaishou.com/short-video/3xptxuny85wtac6)
 1. [新年来电](https://www.kuaishou.com/short-video/3x27j5gd65mwr3k)
-1. [明星们的跨年祝福请查收](https://www.kuaishou.com/short-video/3x4fqjbbcv868rw)
 1. [跨年烟花舞的含金量还在上升](https://www.kuaishou.com/short-video/3xwem7s7gbkhwqy)
-1. [湖南卫视跨年晚会节目单](https://www.kuaishou.com/short-video/3xb6kxvh9tdxiek)
-1. [中国航天再现太空水母](https://www.kuaishou.com/short-video/3xpew4y8yrv7jq4)
 1. [汪苏泷广州跨年演唱会](https://www.kuaishou.com/short-video/3xnj2pce9e9mefq)
-1. [博雅跨年烟花转场](https://www.kuaishou.com/short-video/3xc29mvueyszwr2)
 1. [敖日嘎拉推进健康扎赉特建设](https://www.kuaishou.com/short-video/3xpdp4fchynajce)
 1. [成年后的我跨年belike](https://www.kuaishou.com/short-video/3xa9pvf8yfvy9ka)
 1. [金箍带上之后你再也不是凡人](https://www.kuaishou.com/short-video/3xjmqtqgg8um7h2)
 1. [本以为是独白结果是旁白](https://www.kuaishou.com/short-video/3xqkjhm6j7qq2eq)
-1. [小时候的跨年笑话](https://www.kuaishou.com/short-video/3xmm2u6u2s3d23g)
-1. [一起看跨年烟花](https://www.kuaishou.com/short-video/3xw62nfnxkeuivg)
 <!-- END KUAISHOU -->
 
 历史归档 [./archives/kuaishou](./archives/kuaishou)
