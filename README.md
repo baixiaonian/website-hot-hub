@@ -5,7 +5,7 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2026-01-25 14:42:55 +0800 -->
+<!-- 最后更新时间 2026-01-25 15:28:46 +0800 -->
 1. [卖课7年狂赚千万，被群嘲的“性商教母”不能一笑了之](https://36kr.com/p/3653100679963011)
 1. [一天卖近2万件，江西老板娘造出义乌爆款，订单排到3月](https://36kr.com/p/3653434020356480)
 1. [又一日本电视大王，“改嫁”中国](https://36kr.com/p/3653251746509321)
@@ -13,11 +13,12 @@
 1. [死磕机器人大脑的北大副教授，和我们聊了聊具身领域最大的“偏见”](https://36kr.com/p/3653424523682183)
 1. [北京顶流商场，要被卖了](https://36kr.com/p/3653134102864260)
 1. [前库卡技术总监创业，融资近千万元、清华精密仪器背景｜36氪首发](https://36kr.com/p/3654171175657861)
-1. [55亿美图掌门“豪横撒钱”，人均获超万元“红包”](https://36kr.com/p/3653425813533186)
 1. [“六味地黄茶”被年轻人抢购！5个月预计卖1亿元](https://36kr.com/p/3654165033083270)
+1. [55亿美图掌门“豪横撒钱”，人均获超万元“红包”](https://36kr.com/p/3653425813533186)
 1. [AI熔化白银？](https://36kr.com/p/3653208826372229)
 1. [全国四地同步揭晓：TapTap年度游戏大赏走过了第一个十年](https://36kr.com/p/3654256593903745)
 1. [数据中心的下一个胜负手：跳出AI芯片](https://36kr.com/p/3654296014430339)
+1. [中国公司全球化周报｜荣耀、倍思、努比亚等50+品牌签约速卖通品牌出海/《明日方舟：终末地》全球公测，阿里云提供技术支撑](https://36kr.com/p/3654503589896583)
 1. [GitHub 都没用明白，怎么用 AI 编程从零开发应用](https://36kr.com/p/3652918294684040)
 1. [特斯拉Robotaxi启动全无人运营，但被网友吐槽是“障眼法”](https://36kr.com/p/3652903608951170)
 1. [三年亏四亿，“共享电单车第一股”赔钱赚吆喝？](https://36kr.com/p/3652832236380549)
@@ -33,7 +34,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2026-01-25 14:42:56 +0800 -->
+<!-- 最后更新时间 2026-01-25 15:28:47 +0800 -->
 1. [真的笑不动了！！！《下一个是谁6》04](https://b23.tv/BV1tKzcB1ECE)
 1. [羊村第五季（3）](https://b23.tv/BV15XzuBjEFk)
 1. [【终末地】基建蓝图一键攻略！胶囊+装备原件+电池蓝图分享！幸运萝卜位置大全  《明日方舟：终末地》|魔法Zc目录](https://b23.tv/BV1WVzWBuEoF)
@@ -217,7 +218,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2026-01-25 14:42:59 +0800 -->
+<!-- 最后更新时间 2026-01-25 15:28:50 +0800 -->
 1. [Android Gradle Plugin 9.0 发布，为什么这会是个史诗级大坑版本](https://juejin.cn/post/7597900782910685203)
 1. [深度复刻小米AI官网交互动画](https://juejin.cn/post/7598005428258340927)
 1. [这可能是 Vue 生态最完整的语音智能体组件库](https://juejin.cn/post/7598353543892353030)
@@ -238,8 +239,8 @@
 1. [Vercel 开源 json-render！短短 4 天狂揽 7500 Star，这才是 AI 生成 UI 的终极解法！](https://juejin.cn/post/7597394607371730979)
 1. [代码未停，心跳已止：一位32岁同行倒在周末，抢救时的群消息刺痛了谁？](https://juejin.cn/post/7598083101361029126)
 1. [从痛点到架构：用 Chrome DevTools Panel 做埋点校验，我是怎么落地的](https://juejin.cn/post/7597314244269228086)
-1. [🚀🚀🚀从8年Java开发到AI工程师的进阶规划💪🏻💪🏻💪🏻](https://juejin.cn/post/7597989474971238450)
 1. [开箱即用的 HarmonyOS 通用脚手架](https://juejin.cn/post/7598459769238454306)
+1. [🚀🚀🚀从8年Java开发到AI工程师的进阶规划💪🏻💪🏻💪🏻](https://juejin.cn/post/7597989474971238450)
 1. [FastExcel消失了，原来捐给了Apache](https://juejin.cn/post/7598071804969812006)
 1. [我震惊了，jQuery 竟然发布了 4.0 ！](https://juejin.cn/post/7598081541563154472)
 1. [16 个前端冷知识：用一次就忘不掉的那种](https://juejin.cn/post/7598081541563138088)
@@ -251,21 +252,21 @@
 1. [AI不止工具：积累资产 + 创造未来](https://juejin.cn/post/7597973595130380340)
 1. [MCP 入门 03：消弭幻觉！让AI按需读文档、读源码、读类型](https://juejin.cn/post/7597266967139074082)
 1. [Claude Code最佳实践](https://juejin.cn/post/7598011274686283776)
+1. [2025–2026 程序员薪资情况浅析](https://juejin.cn/post/7598003935425511467)
 1. [AI 定义的 Android 开发规范，直接抄作业！](https://juejin.cn/post/7597811700284882963)
 1. [Android消息推送 MQTT方案实践](https://juejin.cn/post/7597699796201373706)
 1. [2026年，我为什么越来越离不开NestJS + Monorepo](https://juejin.cn/post/7598355220830322740)
 1. [JWT 保姆级教程：生成 + 验证 + 防篡改，一篇讲透](https://juejin.cn/post/7598203055751741475)
 1. [2026 年 Claude Skills 实战指南：让 AI 懂你的业务](https://juejin.cn/post/7598057199963062323)
-1. [2025–2026 程序员薪资情况浅析](https://juejin.cn/post/7598003935425511467)
 1. [一站式了解Semaphore的基本用法](https://juejin.cn/post/7598024433911054390)
 1. [多标签页强提醒不重复打扰：从“弹框轰炸”到“共享待处理队列”的实战](https://juejin.cn/post/7597997108135477275)
 1. [告别"移动端重构噩梦"：TinyPro移动端适配上线！](https://juejin.cn/post/7597989474991652902)
 1. [xAI工程师播客聊太嗨，马斯克解雇了他](https://juejin.cn/post/7597724783649161256)
 1. [基于SprinBoot3+GraalVM js的企业级低代码接口平台架构设计](https://juejin.cn/post/7597351616555958324)
 1. [Kotlin 遇上 JPA：当「优雅」撞上「反射」](https://juejin.cn/post/7597251197426663450)
+1. [谱写Kotlin协程面试进行曲-进阶篇(第一乐章)](https://juejin.cn/post/7598021313870364678)
 1. [Trae的过去与现在](https://juejin.cn/post/7598472744480997395)
 1. [🚀 纯前端离线局域网P2P大文件断点传输：别让你的照片墙崩了](https://juejin.cn/post/7598402961904681012)
-1. [谱写Kotlin协程面试进行曲-进阶篇(第一乐章)](https://juejin.cn/post/7598021313870364678)
 1. [我的项目实战(四) - 数据请求接口，Mockjs的创建使用](https://juejin.cn/post/7597989474992488486)
 1. [echarts的亿级渲染性能优化](https://juejin.cn/post/7597362768644030499)
 1. [Claude、Codex、Trae... 都在做：为什么 "Skill" 成了 AI 编程工具的标配？](https://juejin.cn/post/7597640029574709299)
@@ -286,7 +287,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2026-01-25 14:42:53 +0800 -->
+<!-- 最后更新时间 2026-01-25 15:28:45 +0800 -->
 1. [新玩意 233｜少数派的编辑们最近买了啥？](https://sspai.com/post/105458)
 1. [新玩意 232｜少数派的编辑们最近买了啥？](https://sspai.com/post/105270)
 1. [浏览器扩展合集：派友近期推荐的 7 款浏览器扩展](https://sspai.com/post/105249)
@@ -334,7 +335,7 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2026-01-25 14:43:00 +0800 -->
+<!-- 最后更新时间 2026-01-25 15:28:52 +0800 -->
 1. [中国古代算命术：命理学入门经典](https://weread.qq.com/web/bookDetail/83332c80813abb1bbg01466d)
 1. [野性关系](https://weread.qq.com/web/bookDetail/d0e328e0813abb1b1g01133e)
 1. [动物本能：罗伯特萨波斯基力作](https://weread.qq.com/web/bookDetail/57832560813ab79a9g0106e0)
@@ -366,58 +367,77 @@
 ## 快手
 
 <!-- BEGIN KUAISHOU -->
-<!-- 最后更新时间 2026-01-25 14:43:02 +0800 -->
+<!-- 最后更新时间 2026-01-25 15:28:55 +0800 -->
 1. [生活好一个很重要的内涵是生态](https://www.kuaishou.com/short-video/3x7r3wgzwzk72se)
-1. [李昊别哭](https://www.kuaishou.com/short-video/3xx573gqanvqc46)
+1. [日本大批民众从各地赶来告别熊猫](https://www.kuaishou.com/short-video/3xchw6n4xgnqut6)
 1. [又一波大范围雨雪安排上了](https://www.kuaishou.com/short-video/3x2sgfaz3dupg9c)
-1. [日本民众排队送别旅日大熊猫](https://www.kuaishou.com/short-video/3xy35qp85ekuqy4)
-1. [张诗尧早该知道泡沫一触就破](https://www.kuaishou.com/short-video/3xpdrjnr53ng46w)
 1. [告诉大家一个遗憾的消息](https://www.kuaishou.com/short-video/3xpnjgpg2km5ypq)
-1. [再见十八班的原生家庭都好痛](https://www.kuaishou.com/short-video/3x6rny2mkq2hhz2)
-1. [香格里拉藏族网红大婚](https://www.kuaishou.com/short-video/3xf4jpardyqe39c)
-1. [再见十八班简直cp大乱炖](https://www.kuaishou.com/short-video/3xmtuv9kx3h7ysk)
+1. [李昊别哭](https://www.kuaishou.com/short-video/3xx573gqanvqc46)
+1. [美国明州骚乱现场](https://www.kuaishou.com/short-video/3x2iubjqsga8a82)
+1. [官方通报秦岭翠峰山2人坠崖失联](https://www.kuaishou.com/short-video/3xpv2gppmzrbfnq)
+1. [俄副外长：俄美关系正回归正常](https://www.kuaishou.com/short-video/3xzsxtynjmzkdpw)
+1. [玉帝扮演者王卫国入驻快手](https://www.kuaishou.com/short-video/3x8my9r4dbjbuv6)
+1. [印度暴发尼帕病毒疫情](https://www.kuaishou.com/short-video/3xfmfahqwaieuza)
 1. [关于草莓的谣言一次讲清](https://www.kuaishou.com/short-video/3xniyz222rxfia2)
 1. [陈雪凝老公回应出轨](https://www.kuaishou.com/short-video/3x44hddb3e3vkdg)
-1. [U23国足0比4日本收获亚军](https://www.kuaishou.com/short-video/3x3p69kzzkrb59g)
+1. [拜仁德甲跨赛季27轮不败被终结](https://www.kuaishou.com/short-video/3xxkwpgj2gr6mrg)
 1. [这次真的听懂绿色了](https://www.kuaishou.com/short-video/3xnwq8cq9h5bz8q)
-1. [美国女兵跳入冰水测试生存技能](https://www.kuaishou.com/short-video/3xdvr884mdvrmfe)
-1. [体检肝功能正常也可能患肝病](https://www.kuaishou.com/short-video/3xyejyab74g9mwe)
-1. [李昊回应U23国足亚军](https://www.kuaishou.com/short-video/3xctbqfxnswxrtc)
-1. [旅日大熊猫将于27号返回中国](https://www.kuaishou.com/short-video/3xdaqbsyunfuq8m)
-1. [乐园项目铁链断裂游客被甩飞](https://www.kuaishou.com/short-video/3xftbtfcubxr3ec)
+1. [唐国强解锁首次开盲盒](https://www.kuaishou.com/short-video/3xxkdy2z272yhui)
+1. [重庆一住宅火灾致1人死亡](https://www.kuaishou.com/short-video/3xanft5uta62hc6)
+1. [一代人有一代人的腊八粥](https://www.kuaishou.com/short-video/3xaux3966vzzf72)
+1. [U23国足0比4日本收获亚军](https://www.kuaishou.com/short-video/3x3p69kzzkrb59g)
+1. [再见十八班简直cp大乱炖](https://www.kuaishou.com/short-video/3xmtuv9kx3h7ysk)
+1. [黄子韬认证刘耀文神颜](https://www.kuaishou.com/short-video/3xavug3n9edthji)
 1. [87岁老人售30年前黄金](https://www.kuaishou.com/short-video/3xhgy9cy94sv4s2)
+1. [刘宁再提罗山案](https://www.kuaishou.com/short-video/3xu34u8irrwspn4)
+1. [镜头里的女孩现在粉墨登场](https://www.kuaishou.com/short-video/3xkxjxru7ueih3c)
+1. [体检肝功能正常也可能患肝病](https://www.kuaishou.com/short-video/3xyejyab74g9mwe)
+1. [向涵之pump it up手势舞](https://www.kuaishou.com/short-video/3xu4xfnupit7xwm)
+1. [完颜嘉怡 与我无关去问该问的人](https://www.kuaishou.com/short-video/3xpnp74p8g5wahu)
+1. [乐园项目铁链断裂游客被甩飞](https://www.kuaishou.com/short-video/3xftbtfcubxr3ec)
+1. [理发师假发被吹走](https://www.kuaishou.com/short-video/3x7asrj548ictem)
+1. [张诗尧早该知道泡沫一触就破](https://www.kuaishou.com/short-video/3xpdrjnr53ng46w)
+1. [旅日大熊猫将于27号返回中国](https://www.kuaishou.com/short-video/3xis83dtmchpf4m)
+1. [95后村干部张桂芳助农增收](https://www.kuaishou.com/short-video/3x2etdavcxwqcm6)
+1. [到底哪个才是真正的我](https://www.kuaishou.com/short-video/3xypk9v9p4grd2c)
+1. [陈雪凝婚礼现场唱的约定](https://www.kuaishou.com/short-video/3xhyswpvsw5xpgq)
+1. [31万人预约看旅日熊猫最后一面](https://www.kuaishou.com/short-video/3x4rp3xewxdy8xk)
+1. [小沈阳春晚首秀17周年](https://www.kuaishou.com/short-video/3xuzaydrxv3hijw)
+1. [吉林村民家门口现老虎](https://www.kuaishou.com/short-video/3xdgc3iw2pmj6wq)
+1. [宋亚东判定不敌奥马利](https://www.kuaishou.com/short-video/3x54xqvdn2t2pui)
+1. [哈尔滨记者投出关键一票](https://www.kuaishou.com/short-video/3xtbmgyg9n4p862)
+1. [张瑷晖妈妈回顾亚洲杯](https://www.kuaishou.com/short-video/3xedhbfmthckv7g)
+1. [美食听力挑战](https://www.kuaishou.com/short-video/3xdertb3rqfewvc)
+1. [日本民众排队送别旅日大熊猫](https://www.kuaishou.com/short-video/3xy35qp85ekuqy4)
+1. [李昊回应U23国足亚军](https://www.kuaishou.com/short-video/3xctbqfxnswxrtc)
 1. [腊八节的由来](https://www.kuaishou.com/short-video/3xpqx98xxtvy9fy)
+1. [网红理发师晓华发视频维权](https://www.kuaishou.com/short-video/3x7auh3yqchmxew)
+1. [再见十八班的原生家庭都好痛](https://www.kuaishou.com/short-video/3x6rny2mkq2hhz2)
+1. [终末地还是太全面了](https://www.kuaishou.com/short-video/3xuprm3duv7x74e)
+1. [我的身材很曼妙变装](https://www.kuaishou.com/short-video/3xmdprds2vg2ijq)
+1. [买1块银砖3个月赚26万](https://www.kuaishou.com/short-video/3xd27ewsdrs9xv4)
+1. [香格里拉藏族网红大婚](https://www.kuaishou.com/short-video/3xf4jpardyqe39c)
+1. [美国女兵跳入冰水测试生存技能](https://www.kuaishou.com/short-video/3xdvr884mdvrmfe)
+1. [旅日大熊猫将于27号返回中国](https://www.kuaishou.com/short-video/3xdaqbsyunfuq8m)
 1. [张又侠刘振立被查](https://www.kuaishou.com/short-video/3xudjcbh6pj7nvq)
 1. [电梯跳舞](https://www.kuaishou.com/short-video/3xssuesy5z24me2)
-1. [俄副外长：俄美关系正回归正常](https://www.kuaishou.com/short-video/3xzsxtynjmzkdpw)
 1. [黄晓明蹦极前给小海绵打电话壮胆](https://www.kuaishou.com/short-video/3xsjjjyzh4f4de4)
-1. [唐国强解锁首次开盲盒](https://www.kuaishou.com/short-video/3xxkdy2z272yhui)
-1. [完颜嘉怡 与我无关去问该问的人](https://www.kuaishou.com/short-video/3xpnp74p8g5wahu)
-1. [95后村干部张桂芳助农增收](https://www.kuaishou.com/short-video/3x2etdavcxwqcm6)
 1. [国家体育总局向U23国足致贺信](https://www.kuaishou.com/short-video/3xdaq27yc3xr4bm)
 1. [旅日大熊猫最后一天接受参观](https://www.kuaishou.com/short-video/3xzu6gq66q45i8i)
-1. [陈雪凝婚礼现场唱的约定](https://www.kuaishou.com/short-video/3xhyswpvsw5xpgq)
 1. [告白气球翻唱](https://www.kuaishou.com/short-video/3xmcqq5drdmfsua)
 1. [李昊无缘最佳门将](https://www.kuaishou.com/short-video/3xq597eqzvz44du)
 1. [张诗尧搓手变装](https://www.kuaishou.com/short-video/3xnpcsje6dqj37y)
-1. [终末地还是太全面了](https://www.kuaishou.com/short-video/3xuprm3duv7x74e)
 1. [黄健翔刘建宏称李昊运气不好](https://www.kuaishou.com/short-video/3xugf967dq8n4b2)
-1. [宋亚东判定不敌奥马利](https://www.kuaishou.com/short-video/3x54xqvdn2t2pui)
 1. [李昊又神扑](https://www.kuaishou.com/short-video/3xqgui6rm5svq64)
 1. [美攀岩大神徒手登顶台北101](https://www.kuaishou.com/short-video/3xuvwaz2dsdvwfc)
-1. [网红理发师晓华发视频维权](https://www.kuaishou.com/short-video/3x7auh3yqchmxew)
-1. [张瑷晖妈妈回顾亚洲杯](https://www.kuaishou.com/short-video/3xedhbfmthckv7g)
 1. [当光头强跳起哈吉米舞蹈](https://www.kuaishou.com/short-video/3xjzshafn9knrey)
 1. [这是什么闪](https://www.kuaishou.com/short-video/3xzsvw6mj6qixts)
 1. [被雪豹咬伤女子已从急诊转出](https://www.kuaishou.com/short-video/3xt8bkacmeuha6a)
 1. [我们赢了很多场比赛才成为亚军的](https://www.kuaishou.com/short-video/3x2resjswm7diqw)
 1. [娜娜米手势舞](https://www.kuaishou.com/short-video/3x9nki38f8upcqc)
-1. [小沈阳春晚首秀17周年](https://www.kuaishou.com/short-video/3xuzaydrxv3hijw)
-1. [吉林村民家门口现老虎](https://www.kuaishou.com/short-video/3xdgc3iw2pmj6wq)
 1. [这些年的变化你看我几分像从前](https://www.kuaishou.com/short-video/3xnfb5hsbkt3ypw)
 1. [俄美乌谈判结束](https://www.kuaishou.com/short-video/3x3vp6b4ip9p2em)
 1. [日本民众排队送别旅日大熊猫](https://www.kuaishou.com/short-video/3xn8fvi84rncvni)
-1. [买1块银砖3个月赚26万](https://www.kuaishou.com/short-video/3xd27ewsdrs9xv4)
 1. [不萌则已一萌惊人](https://www.kuaishou.com/short-video/3xy5z9a74mt38ie)
 1. [拜合拉木发烧39度](https://www.kuaishou.com/short-video/3x6c3qs8si9zi9e)
 1. [18岁球员追随邓子豪](https://www.kuaishou.com/short-video/3xh3qu82tu3awpg)
