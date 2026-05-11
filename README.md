@@ -5,33 +5,34 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2026-05-11 06:59:23 +0800 -->
+<!-- 最后更新时间 2026-05-11 08:02:36 +0800 -->
 1. [首超龙虾，「爱马仕」Agent全球调用第一，小米MiMo是第一贡献模型](https://36kr.com/p/3802262491029252)
 1. [梁文锋率领小龙过千亿](https://36kr.com/p/3802790694886916)
 1. [DeepSeek塞进苹果本儿，分币不花实现“龙虾自由”](https://36kr.com/p/3803167337783561)
 1. [DeepSeek上桌费才500亿](https://36kr.com/p/3802834184904199)
-1. [告别盲目锻炼 这份周练计划直接照做](https://36kr.com/p/3756437881684744)
 1. [豆包推出收费：纯免费的大模型越来越少了](https://36kr.com/p/3802970281041408)
-1. [9倍狂飙！SK海力士“封神”背后，藏着多少腥风血雨？](https://36kr.com/p/3801919515827969)
 1. [拍短剧的都跑去干旅拍了](https://36kr.com/p/3802914430836487)
+1. [9倍狂飙！SK海力士“封神”背后，藏着多少腥风血雨？](https://36kr.com/p/3801919515827969)
 1. [3年5倍，百年玻璃厂重生](https://36kr.com/p/3803113114787331)
 1. [三星的撤退与进击](https://36kr.com/p/3802013552926466)
 1. [900亿巨头，栽在1140万上](https://36kr.com/p/3803019132919298)
-1. [大模型清场前夜](https://36kr.com/p/3802258052096004)
 1. [密集母职10年后，东亚妈妈开始集体疲惫](https://36kr.com/p/3803096622341633)
-1. [2026 AI眼镜大战升级：一边等苹果出手，一边憋大招](https://36kr.com/p/3802071678000901)
+1. [大模型清场前夜](https://36kr.com/p/3802258052096004)
 1. [融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发](https://36kr.com/p/3801745491943169)
 1. [第四个孩子出生后，我从工作了12年的腾讯离职了](https://36kr.com/p/3802894641110792)
+1. [2026 AI眼镜大战升级：一边等苹果出手，一边憋大招](https://36kr.com/p/3802071678000901)
 1. [图灵奖得主Sutton新作：用一个1967年的公式，解决流式强化学习一大缺陷](https://36kr.com/p/3803073505369865)
 1. [Agent 时代需要怎样的分布式基础设施](https://36kr.com/p/3802850619809288)
-1. [10分钟卖500万桶，复购率不到15%，自嗨锅的钱都烧哪儿了？](https://36kr.com/p/3802776863990020)
 1. [新研究表明，使用 AI 仅 10 分钟就可能使人变得懒惰和愚钝](https://36kr.com/p/3802839155843333)
+1. [10分钟卖500万桶，复购率不到15%，自嗨锅的钱都烧哪儿了？](https://36kr.com/p/3802776863990020)
 1. [Ozon大中华区总裁Simon Huang：中国卖家，正在涌向俄罗斯｜专访](https://36kr.com/p/3802822550839047)
-1. [晶圆厂的关键一战](https://36kr.com/p/3802818127076867)
 1. [芯片产业的最大金主们，花钱逻辑变了](https://36kr.com/p/3802943078440708)
+1. [晶圆厂的关键一战](https://36kr.com/p/3802818127076867)
 1. [饮品杀出新物种：加颗球从7元卖到30+，多城刷屏爆单](https://36kr.com/p/3802801708981763)
 1. [年入50亿，顺德网红巨头，业绩坐上“过山车”](https://36kr.com/p/3802199199833857)
 1. [俞敏洪过不去“小作文”的坎儿](https://36kr.com/p/3802719110193161)
+1. [强行乐观是当代人最隐蔽的精神内耗](https://36kr.com/p/3756452688986887)
+1. [告别盲目锻炼 这份周练计划直接照做](https://36kr.com/p/3756437881684744)
 <!-- END 36KR -->
 
 历史归档 [./archives/36kr](./archives/36kr)
@@ -208,7 +209,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2026-05-11 06:59:27 +0800 -->
+<!-- 最后更新时间 2026-05-11 08:02:42 +0800 -->
 1. [用好CC，事半功倍！Claude Code 命令大全，黄金命令推荐、多模型配置、实践指南、Hooks 和踩坑记录大全](https://juejin.cn/post/7636949170260328475)
 1. [给技术团队定规范，为什么 90% 最后都变成了走形式？](https://juejin.cn/post/7637046499475357759)
 1. [可以免费使用的 DeepSeek-V4-Flash，很多人还不知道！](https://juejin.cn/post/7637355003941896198)
@@ -216,14 +217,14 @@
 1. [2026年，为什么NestJS + Monorepo越来越流行了 ❓❓❓](https://juejin.cn/post/7636703811729637395)
 1. [你大概率没用对 Claude Code 的五大能力](https://juejin.cn/post/7637046499474276415)
 1. [告别手动切换 Node 版本：从 nvm 迁移到 Volta](https://juejin.cn/post/7637354393595166730)
-1. [实用性 Max ，新  Flutter  &  Dart Agent  Skills  深度解读](https://juejin.cn/post/7637046499474538559)
 1. [Superpowers 渐进式使用过程和最佳实践](https://juejin.cn/post/7637045892451549211)
+1. [实用性 Max ，新  Flutter  &  Dart Agent  Skills  深度解读](https://juejin.cn/post/7637046499474538559)
 1. [多租户隔离，我选择"倒退"后开发速度直接翻了 3 倍](https://juejin.cn/post/7636993960301510675)
 1. [基于 Harness + SDD + 多仓管理模式的 AI 全栈开发实践｜得物技术](https://juejin.cn/post/7636724456984428607)
 1. [经典，Flutter iOS 又修复了一个构建问题，还是很抽象](https://juejin.cn/post/7637433660883714090)
-1. [3P骚操作！把DeepSeekV4直接接入Claude桌面版！](https://juejin.cn/post/7637075155848052770)
-1. [Claude Code 团队工程师：我为什么放弃 Markdown，全面转向 HTML](https://juejin.cn/post/7637440674708406298)
 1. [以前有一个同事说：最讨厌下班提需求又没电脑在身边...](https://juejin.cn/post/7637692885472428068)
+1. [Claude Code 团队工程师：我为什么放弃 Markdown，全面转向 HTML](https://juejin.cn/post/7637440674708406298)
+1. [3P骚操作！把DeepSeekV4直接接入Claude桌面版！](https://juejin.cn/post/7637075155848052770)
 1. [当 Codex 成为主力，软件工程的重心已经变了](https://juejin.cn/post/7637372855350788132)
 1. [京东二面：Redis的使用场景有哪些？别说你只用过缓存](https://juejin.cn/post/7636643735280304171)
 1. [Claude Code Skills 推荐：2026年最值得安装的10个AI技能](https://juejin.cn/post/7637367613895393295)
@@ -232,8 +233,8 @@
 1. [高德二面：线上慢SQL导致CPU飙升，如何解决？](https://juejin.cn/post/7637066572500271110)
 1. [Now In Android 精讲 10 - AGENTS.md：写给 AI Agent 的项目说明书](https://juejin.cn/post/7636761209605423154)
 1. [面试官：说一下你现在使用的 AI IDE，什么，JoyCode 是什么？](https://juejin.cn/post/7637367483129888768)
-1. [1秒下单10万次，服务器是怎么扛住的？](https://juejin.cn/post/7636705843082625024)
 1. [状态管理大乱斗#07 | Signals 源码评析 - 暗流涌动](https://juejin.cn/post/7637412411973074944)
+1. [1秒下单10万次，服务器是怎么扛住的？](https://juejin.cn/post/7636705843082625024)
 1. [🔥🔥🔥 我用AI基于 Tauri + Vue 3 写了个 ADB 桌面工具，把命令行的脏活全干了](https://juejin.cn/post/7637036421360074767)
 1. [超越 Vibe Coding —— AI 辅助编程指南](https://juejin.cn/post/7637407916647972910)
 1. [稳定性全面升级！Compose Multiplatform 1.11 RC 正式推送](https://juejin.cn/post/7637018608116891674)
@@ -244,12 +245,12 @@
 1. [前端打印分页技术探讨与 PrintomJs 方案](https://juejin.cn/post/7637036421360992271)
 1. [Claude Code 完整上手指南：MCP、Skills、第三方模型配置一次搞定](https://juejin.cn/post/7636951963953512483)
 1. [aardio从惊喜到失望到被拉黑二三事](https://juejin.cn/post/7637809285999427634)
-1. [🔥Vue 转 React 实战：VuReact 实时监听开发指南](https://juejin.cn/post/7637409250433220642)
-1. [Harness Engineering：驾驭大模型的工程新范式](https://juejin.cn/post/7636587578021675043)
-1. [用Agent评测思路管理AI Coding —— 31万行代码AI重构的实践](https://juejin.cn/post/7637318031819669531)
 1. [小米二面：Redis为什么能支撑10万+ QPS？](https://juejin.cn/post/7637433684699906089)
-1. [Codex抄了一波Claude，浏览器控制功能很丝滑！](https://juejin.cn/post/7637345418324213812)
+1. [🔥Vue 转 React 实战：VuReact 实时监听开发指南](https://juejin.cn/post/7637409250433220642)
+1. [用Agent评测思路管理AI Coding —— 31万行代码AI重构的实践](https://juejin.cn/post/7637318031819669531)
 1. [Claude Code 省 Token 小妙招：RTK + Caveman 组合拳](https://juejin.cn/post/7637051072150011931)
+1. [Harness Engineering：驾驭大模型的工程新范式](https://juejin.cn/post/7636587578021675043)
+1. [Codex抄了一波Claude，浏览器控制功能很丝滑！](https://juejin.cn/post/7637345418324213812)
 1. [Dirtyfrag漏洞：我花了一下午搞清楚这个Linux内核提权漏洞到底在搞什么](https://juejin.cn/post/7637046499474505791)
 1. [耗时 2 小时！我复刻了全网超火的通透 3D 水晶球动效，Vue3+Three.js 做出高级视觉特效](https://juejin.cn/post/7636951963952398371)
 1. [Claude Code 白嫖接入 DeepSeek V4 教程](https://juejin.cn/post/7637065398849257498)
@@ -267,7 +268,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2026-05-11 06:59:22 +0800 -->
+<!-- 最后更新时间 2026-05-11 08:02:35 +0800 -->
 1. [新玩意 240｜少数派的编辑们最近买了啥？](https://sspai.com/post/109474)
 1. [一日一技｜为什么你应该关闭 iOS 的键盘声音](https://sspai.com/post/109460)
 1. [甘南秘境，大白高国：我的甘南自由行记](https://sspai.com/post/109367)
@@ -315,7 +316,7 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2026-05-11 06:59:29 +0800 -->
+<!-- 最后更新时间 2026-05-11 08:02:43 +0800 -->
 1. [我就是你啊：走进他人内心的7项修炼](https://weread.qq.com/web/bookDetail/6e032890813ab6b7ag0171a5)
 1. [紫金陈：高智商犯罪（全集）](https://weread.qq.com/web/bookDetail/242325e0725a7cb12424be1)
 1. [良陈美锦（任敏、此沙主演影视原著）](https://weread.qq.com/web/bookDetail/3d83293057af4f3d8b2f203)
