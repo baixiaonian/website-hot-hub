@@ -5,7 +5,7 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2026-08-23 02:40:07 +0800 -->
+<!-- 最后更新时间 2026-08-23 03:27:52 +0800 -->
 1. [什么都没造卖了80亿](https://36kr.com/p/3950020635180169)
 1. [9点1氪丨有医院能领结婚证了，与婚前检查无缝衔接；阿里巴巴发布财报，2027财年Q1营收2690亿；OpenAI进一步开放Codex的底层能力](https://36kr.com/p/3949992200928641)
 1. [苹果 VR 部门大裁员，VisionPro 2 真悬了](https://36kr.com/p/3950055800749193)
@@ -32,7 +32,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2026-08-23 02:40:07 +0800 -->
+<!-- 最后更新时间 2026-08-23 03:27:52 +0800 -->
 1. [《黑神话：钟馗》15分钟实机演示](https://b23.tv/BV1kS8H6VERt)
 1. ["复活吧！我的（ ）"](https://b23.tv/BV1G48M6XEBt)
 1. [《下一个是谁》第七季（3）](https://b23.tv/BV1yj8T6zE1N)
@@ -202,7 +202,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2026-08-23 02:40:10 +0800 -->
+<!-- 最后更新时间 2026-08-23 03:27:55 +0800 -->
 1. [《牛来》火了？我用ThreeJs实现了一个简易版的，代码全送给你，文章最后附演示效果](https://juejin.cn/post/7675272903249625107)
 1. [我一路问 WorkBuddy，用腾讯云 OCR Skills 在几分钟内完成了投标审查](https://juejin.cn/post/7675346841392070707)
 1. [「速通Shell」Shell编程的错误处理与日志](https://juejin.cn/post/7675540232994783251)
@@ -234,22 +234,23 @@
 1. [彻底搞懂 JWT 鉴权：一条 token 从签发到守卫的完整链路](https://juejin.cn/post/7675615031892082734)
 1. [为什么越来越多人用 kkFileView？](https://juejin.cn/post/7676641074035605550)
 1. [给 AI 时代找工作的同学一些实用建议](https://juejin.cn/post/7676277362519113763)
+1. [Show me your works & token -稀土掘金上线内测作品广场和用量统计](https://juejin.cn/post/7675992325912887315)
 1. [AI 时代写给前端同行：什么在贬值，什么在涨价](https://juejin.cn/post/7676369124041654307)
 1. [从 8 行报错到一条故障链：我用蓝耘 MaaS 做了一个 AI 日志分析助手](https://juejin.cn/post/7675992325919244331)
 1. [我做了一个本地优先的 AI 图片工作台：Loomora v1.0.0 正式发布](https://juejin.cn/post/7675717671346126899)
 1. [Codex 子 Agent 分工实战：Sol 当军师、Luna 当搬砖工，单任务成本压到 $0.61](https://juejin.cn/post/7675577631460278307)
-1. [Show me your works & token -稀土掘金上线内测作品广场和用量统计](https://juejin.cn/post/7675992325912887315)
 1. [使用Trae Wrok快速迭代Spine骨骼动画库：支持ASTC格式](https://juejin.cn/post/7675626442046586934)
 1. [个人博客搭建过程](https://juejin.cn/post/7661118589546889259)
 1. [DeepSeek Harness 从 0 开始：01 Cordis 核心概念入门](https://juejin.cn/post/7675583202828419098)
 1. [Docker基本概念](https://juejin.cn/post/7675577631459082275)
 1. [一招教你在 Codex 中开启 1M 上下文](https://juejin.cn/post/7675182497022836770)
+1. [这个本地模型，让我 token 自由了](https://juejin.cn/post/7676709710489419786)
 1. [「速通Shell」Shell 脚本测试详解](https://juejin.cn/post/7676366523024392243)
 1. [Claude Code ：如何最大化你的 Session 价值](https://juejin.cn/post/7675926600998944831)
 1. [DeepSeek Harness、Codex、Claude Code、LangGraph 应该怎么选：先判断你缺的是产品、底盘还是工作流](https://juejin.cn/post/7675679286814670854)
 1. [代码洁癖患者会喜欢的几款 CLI 小工具](https://juejin.cn/post/7675671057672437775)
 1. [从 Java 21 到 Java 25：ThreadLocal 以外的选择—— ScopedValue](https://juejin.cn/post/7675565949101768730)
-1. [这个本地模型，让我 token 自由了](https://juejin.cn/post/7676709710489419786)
+1. [备份完不算完，先还原到临时库验一遍](https://juejin.cn/post/7676421042796412968)
 1. [告别 ARouter！基于 Google 官方 Navigation 3 + KSP 打造 Compose 时代的双轨制路由框架](https://juejin.cn/post/7676369124008296448)
 1. [从零开发一个 Coding Agent（十二）：实现版本化 JSONL 与真实 CLI 入口](https://juejin.cn/post/7676091857219076134)
 1. [一文讲透 JWT 登录鉴权：token 的「颁发 → 存储 → 携带 → 校验」完整闭环](https://juejin.cn/post/7675747735869931563)
@@ -261,7 +262,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2026-08-23 02:40:06 +0800 -->
+<!-- 最后更新时间 2026-08-23 03:27:50 +0800 -->
 1. [iOS 27 测试版近期动向，还有 Apple 产品新消息](https://sspai.com/post/113618)
 1. [社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机](https://sspai.com/post/113593)
 1. [派评 | 近期值得关注的 App](https://sspai.com/post/113544)
@@ -310,7 +311,7 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2026-08-23 02:40:11 +0800 -->
+<!-- 最后更新时间 2026-08-23 03:27:56 +0800 -->
 1. [中国人的规矩](https://weread.qq.com/web/bookDetail/dd932d60813abbed7g019473)
 1. [阳明心学入门十讲（微信读书特别版）](https://weread.qq.com/web/bookDetail/fe232f30813abb905g0164a0)
 1. [人生十年，不可辜负的20岁到30岁](https://weread.qq.com/web/bookDetail/23132c00813ab7af8g015e43)
@@ -344,55 +345,81 @@
 ## 快手
 
 <!-- BEGIN KUAISHOU -->
-<!-- 最后更新时间 2026-08-23 02:40:13 +0800 -->
+<!-- 最后更新时间 2026-08-23 03:27:59 +0800 -->
 1. [没有全民健康 就没有全面小康](https://www.kuaishou.com/short-video/3xq5xfdec5rr779)
 1. [今日处暑](https://www.kuaishou.com/short-video/3x5qw55w4ynjj9c)
 1. [兰州打掉3个恶势力组织](https://www.kuaishou.com/short-video/3xjiz2g29k7zugs)
 1. [机器人技术加速赋能千行百业](https://www.kuaishou.com/short-video/3xvnthdqzamgstk)
+1. [榴莲价格大跳水](https://www.kuaishou.com/short-video/3xi2jvey7qjxqg4)
+1. [星际大战场景照进现实](https://www.kuaishou.com/short-video/3x7zybagvz2i2vu)
 1. [女子盲人按摩店遭猥亵](https://www.kuaishou.com/short-video/3xp5hwmwkmm9k4u)
-1. [45岁草根博主大帅去世](https://www.kuaishou.com/short-video/3xt6h6qcbvvukww)
-1. [今年第20号台风“简拉维”生成](https://www.kuaishou.com/short-video/3xhkbqx7bn4yjru)
+1. [老人地铁摔倒乘客帮抓黄鳝](https://www.kuaishou.com/short-video/3x7ph4y5sttvgt9)
 1. [45岁陈冠希断崖式衰老](https://www.kuaishou.com/short-video/3xyyd37znpeyp62)
+1. [火箭高速着陆一把停车入库](https://www.kuaishou.com/short-video/3x6bbp5b9kzjxq2)
+1. [古巴谴责美国新一轮制裁](https://www.kuaishou.com/short-video/3xd5iwbyvrgnknc)
+1. [西安警方打掉涉诈洗钱团伙](https://www.kuaishou.com/short-video/3x3gx8s42iqv3e4)
+1. [45岁草根博主大帅去世](https://www.kuaishou.com/short-video/3xt6h6qcbvvukww)
+1. [女子请病假遭开除获赔偿](https://www.kuaishou.com/short-video/3xqychc6uxgb2eu)
+1. [河南省十五运在安阳开幕](https://www.kuaishou.com/short-video/3xj9ypc9ep46shc)
+1. [天津民警救下轻生男子](https://www.kuaishou.com/short-video/3xccgypgunpeb2e)
+1. [内蒙古天气主打春夏秋冬](https://www.kuaishou.com/short-video/3xwu7kzcgm2s5cu)
+1. [许家印被判处无期徒刑](https://www.kuaishou.com/short-video/3x39znrf96xywpu)
+1. [曼联0比2不敌赫尔城](https://www.kuaishou.com/short-video/3xhu3pejrej4gvk)
+1. [轩姐迷核手势舞跳出新花样](https://www.kuaishou.com/short-video/3xb8zsfeyhc3c6u)
+1. [哈尔滨一女孩试衣被掀帘](https://www.kuaishou.com/short-video/3x865732hrmqcwe)
+1. [新华财经早报8月21日](https://www.kuaishou.com/short-video/3xhifyajqfafmcq)
+1. [兰州惊现罕见巴掌雨](https://www.kuaishou.com/short-video/3x33wivsf3495zw)
+1. [今年第20号台风“简拉维”生成](https://www.kuaishou.com/short-video/3xhkbqx7bn4yjru)
+1. [世界拳王在南非遭枪杀](https://www.kuaishou.com/short-video/3xf9jka9q65gmng)
+1. [清华新生入校可带5位家属](https://www.kuaishou.com/short-video/3x8yut36hp2f8ew)
+1. [27岁男子被电击离世](https://www.kuaishou.com/short-video/3xa85rmaihcivdu)
+1. [印度6岁男童被老师掌掴后身亡](https://www.kuaishou.com/short-video/3xjfnw42pibq4y9)
+1. [温州民警反诈保住5万元](https://www.kuaishou.com/short-video/3x59siqnt4swww2)
+1. [“零食占座”当事人母亲发声](https://www.kuaishou.com/short-video/3xpkwh3sijd7psg)
+1. [俄退役少将头部中枪身亡](https://www.kuaishou.com/short-video/3xti386w8cd7d8s)
+1. [男子20年攒789万被骗](https://www.kuaishou.com/short-video/3x3bmeye373g9js)
+1. [皇家马德里0比6中国女足U17](https://www.kuaishou.com/short-video/3xcrpaf7mk672iy)
+1. [白鹿的男主都在这了](https://www.kuaishou.com/short-video/3xwiy6yweuyd6ss)
+1. [中国男篮晋级U18亚洲杯决赛](https://www.kuaishou.com/short-video/3xth5zs3k7heym6)
+1. [江浙沪或直面台风沙德尔](https://www.kuaishou.com/short-video/3xa7xj73pejc52e)
+1. [小鹿丈夫弱精备孕受阻](https://www.kuaishou.com/short-video/3x8iyqe7jvfih89)
+1. [郭麒麟瘦身后现身机场](https://www.kuaishou.com/short-video/3xt6b2ercdvathm)
+1. [香港网红景点破边洲将试行预约](https://www.kuaishou.com/short-video/3x93264ybahgki6)
+1. [印度少年为要手机致一家三口坠崖](https://www.kuaishou.com/short-video/3xc6hbzp2c5kchy)
+1. [夏晚摇](https://www.kuaishou.com/short-video/3x5c6bgfs8b3yfi)
+1. [TikTok支付4亿隐私和解金](https://www.kuaishou.com/short-video/3xrykfpuavgek46)
+1. [机器人跳高原地起飞近3米](https://www.kuaishou.com/short-video/3xhuy2f5utikrwy)
+1. [山西发现最高级夏代墓葬](https://www.kuaishou.com/short-video/3x8spufc55nutuc)
+1. [男子救人截肢后开店专卖一只鞋](https://www.kuaishou.com/short-video/3xn5wiprup8e2k2)
+1. [苏超焦点战苏州1比0南京](https://www.kuaishou.com/short-video/3x3q4wu7ny6enn6)
+1. [女孩因误诊精神病求职被拒](https://www.kuaishou.com/short-video/3xf2v54e797mpiw)
+1. [中国机器人能飞](https://www.kuaishou.com/short-video/3xt4vspdqszrkrc)
+1. [浙江货拉拉司机遇杀猪盘](https://www.kuaishou.com/short-video/3xys8mkj7xasem6)
 1. [大唐妖探上映](https://www.kuaishou.com/short-video/3x54xhubkcfvjvi)
 1. [男子出轨被开除仲裁被驳](https://www.kuaishou.com/short-video/3x4s7z2w95krzzk)
-1. [浙江货拉拉司机遇杀猪盘](https://www.kuaishou.com/short-video/3xys8mkj7xasem6)
 1. [男子微信被冻结后秒还钱](https://www.kuaishou.com/short-video/3xihb9jqc86gipg)
 1. [刘思懿的人你也敢动](https://www.kuaishou.com/short-video/3xpnrx6422bknj9)
-1. [“零食占座”当事人母亲发声](https://www.kuaishou.com/short-video/3xpkwh3sijd7psg)
 1. [金与正称日本将遭毁灭打击](https://www.kuaishou.com/short-video/3xz6hx8n32sz2dm)
 1. [新疆阿勒泰八月飞雪](https://www.kuaishou.com/short-video/3xz9jrt6tryymd6)
-1. [世界拳王在南非遭枪杀](https://www.kuaishou.com/short-video/3xf9jka9q65gmng)
 1. [广东人把拖鞋玩明白了](https://www.kuaishou.com/short-video/3x479rtq52widae)
 1. [赖岳谦谈日本关西工商界访华延期](https://www.kuaishou.com/short-video/3xy7yt6acscevbc)
-1. [轩姐迷核手势舞跳出新花样](https://www.kuaishou.com/short-video/3xb8zsfeyhc3c6u)
 1. [绥化火车站前大变样](https://www.kuaishou.com/short-video/3x32k7hi2j7qj6q)
-1. [郭麒麟瘦身后现身机场](https://www.kuaishou.com/short-video/3xt6b2ercdvathm)
 1. [那英时隔12年北京开唱](https://www.kuaishou.com/short-video/3xqyw4cqssjqyxk)
-1. [小鹿丈夫弱精备孕受阻](https://www.kuaishou.com/short-video/3x8iyqe7jvfih89)
-1. [白鹿的男主都在这了](https://www.kuaishou.com/short-video/3xwiy6yweuyd6ss)
-1. [俄退役少将头部中枪身亡](https://www.kuaishou.com/short-video/3xti386w8cd7d8s)
 1. [沈腾说一辈子眼泪流完了](https://www.kuaishou.com/short-video/3xmaetyysusguky)
-1. [哈尔滨一女孩试衣被掀帘](https://www.kuaishou.com/short-video/3x865732hrmqcwe)
 1. [长沙一工地发现疑似古迹](https://www.kuaishou.com/short-video/3x7trtr4rige6n4)
 1. [Normal手势舞甜晕了](https://www.kuaishou.com/short-video/3xgssxzk4p5mv3g)
-1. [夏晚摇](https://www.kuaishou.com/short-video/3x5c6bgfs8b3yfi)
 1. [说好了 我们要一直当好朋狗](https://www.kuaishou.com/short-video/3xk3bcm8utrm73s)
 1. [我不是故意闯进你的世界](https://www.kuaishou.com/short-video/3xr46dhyubwcf3k)
-1. [中国机器人能飞](https://www.kuaishou.com/short-video/3xt4vspdqszrkrc)
 1. [00后姑娘开挖机月入3万](https://www.kuaishou.com/short-video/3xw8xbsgc5yctne)
-1. [印度少年为要手机致一家三口坠崖](https://www.kuaishou.com/short-video/3xc6hbzp2c5kchy)
 1. [弟弟为争百万遗产翻脸](https://www.kuaishou.com/short-video/3xq24fz7s4h3kiy)
 1. [库里之歌挑战](https://www.kuaishou.com/short-video/3xnxrwdw4xv5dpk)
-1. [清华新生入校可带5位家属](https://www.kuaishou.com/short-video/3x8yut36hp2f8ew)
 1. [TF家族五代一公](https://www.kuaishou.com/short-video/3xe7kw95p88hnsu)
 1. [男子穿女装进女厕被抓](https://www.kuaishou.com/short-video/3xj6352py4fuuta)
 1. [机器人小鼻嘎带着它的小奶瓶来啦](https://www.kuaishou.com/short-video/3xakikr5grtzpfu)
-1. [TikTok支付4亿隐私和解金](https://www.kuaishou.com/short-video/3xrykfpuavgek46)
 1. [乌鲁木齐抓获电诈取款人](https://www.kuaishou.com/short-video/3xqa8iysxn6e62m)
 1. [黄子韬回复网友嘴唇发紫](https://www.kuaishou.com/short-video/3xwyi7u46dfz2zk)
 1. [机器人方阵一出场压迫感拉满](https://www.kuaishou.com/short-video/3xw7h2tyft4ythq)
 1. [日警方调查美军士兵死亡事件](https://www.kuaishou.com/short-video/3xfgvsj6es4mbqe)
-1. [印度6岁男童被老师掌掴后身亡](https://www.kuaishou.com/short-video/3xjfnw42pibq4y9)
 1. [艾滋病人对伴侣有告知义务](https://www.kuaishou.com/short-video/3xxkpbzt4v3au3k)
 1. [机器人的合体帅到了](https://www.kuaishou.com/short-video/3xmrbwdvgg8mz8k)
 1. [男子爱回收换屏两月就裂](https://www.kuaishou.com/short-video/3xzqa25u8sewrsm)
@@ -408,22 +435,17 @@
 1. [做不了你的女王就炸了你的鱼塘](https://www.kuaishou.com/short-video/3xfhke3uan7a3qs)
 1. [顾客吃眼镜蛇反手举报店家卖野味](https://www.kuaishou.com/short-video/3xjv4k3uqqgnkb2)
 1. [女子55元捡漏1.41万奢侈品项链](https://www.kuaishou.com/short-video/3xw6ukgvcgt2f5m)
-1. [山西发现最高级夏代墓葬](https://www.kuaishou.com/short-video/3x8spufc55nutuc)
 1. [桂琴桐冒险岛合体直播](https://www.kuaishou.com/short-video/3xdfaai54f6w63c)
 1. [美国一男子肢解少女求死刑](https://www.kuaishou.com/short-video/3xuvxtai9md4ie4)
 1. [机器人百米大战破人类纪录](https://www.kuaishou.com/short-video/3xjmv7mymj7qhrg)
-1. [机器人跳高原地起飞近3米](https://www.kuaishou.com/short-video/3xhuy2f5utikrwy)
 1. [处暑养生指南](https://www.kuaishou.com/short-video/3xmkku4jmi2andw)
 1. [世界人形机器人运动会开幕](https://www.kuaishou.com/short-video/3x3b8xddr9d8gi9)
-1. [江浙沪或直面台风沙德尔](https://www.kuaishou.com/short-video/3xa7xj73pejc52e)
 1. [青岛西海岸2比0山东泰山](https://www.kuaishou.com/short-video/3xnrs2jjhy9kbx6)
-1. [中国男篮晋级U18亚洲杯决赛](https://www.kuaishou.com/short-video/3xth5zs3k7heym6)
 1. [男子拍妻子出轨被判刑](https://www.kuaishou.com/short-video/3xztv7dqxev74xy)
 1. [郭晓东张睿改编抽离](https://www.kuaishou.com/short-video/3xaaes9nwajf43k)
 1. [小沈阳一公舞台摔倒](https://www.kuaishou.com/short-video/3xb87gu7hpry2jq)
 1. [台湾节目嘉宾奇葩言论引群嘲](https://www.kuaishou.com/short-video/3xjmpvh8frnmyiu)
 1. [迈克尔杰克逊舞蹈挑战](https://www.kuaishou.com/short-video/3xgwpbkrehi2wmc)
-1. [皇家马德里0比6中国女足U17](https://www.kuaishou.com/short-video/3xcrpaf7mk672iy)
 1. [李胜峰发言引发全场共鸣](https://www.kuaishou.com/short-video/3xnqidb5dmmuxwk)
 1. [山西挖眼案男孩感谢医生](https://www.kuaishou.com/short-video/3xw9eajgdv6muja)
 <!-- END KUAISHOU -->
